@@ -1,0 +1,1572 @@
+,Region,State,Area,City,Consumer_profile,Product_category,Product_type,AC_1001_Issue,AC_1002_Issue,AC_1003_Issue,TV_2001_Issue,TV_2002_Issue,TV_2003_Issue,Claim_Value,Service_Centre,Product_Age,Purchased_from,Call_details,Purpose,Fraud
+0,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,2,0,15000,10,60,Manufacturer,0.5,Complaint,1
+1,South,Karnataka,Rural,Bangalore,Business,Household,AC,1,1,0,0,0,0,20000,12,10,Dealer,1,Complaint,0
+2,North,Haryana,Urban,Chandigarh,Personal,Household,AC,0,1,2,0,0,0,18000,14,10,Dealer,1.4,Claim,0
+3,South,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,0,12000,16,20,Manufacturer,2,Complaint,0
+4,North East,Jharkhand,Rural,Ranchi,Personal,Entertainment,TV,0,0,0,0,1,2,25000,15,6,Dealer,1.3,Claim,0
+5,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,2,1,0,12000,14,3,Internet,1.4,Complaint,0
+6,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,0
+7,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,13,5,Dealer,2.6,Claim,0
+8,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,0
+9,West,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,20000,12,7,Manufacturer,6.5,Claim,0
+10,East,Bihar,Rural,Patna,Personal,Household,AC,0,0,2,0,0,0,25000,13,4,Dealer,0.5,Complaint,0
+11,North,Bihar,Rural,Purnea,Personal,Household,AC,1,1,0,0,0,0,12000,15,21,Internet,1,Complaint,0
+12,North East,Gujarat,Rural,Vadodara,Personal,Household,AC,1,1,0,0,0,0,15000,15,16,Manufacturer,1.5,Claim,0
+13,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Complaint,0
+14,South East,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,50000,12,19,Manufacturer,1.3,Claim,0
+15,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,0
+16,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1,Complaint,0
+17,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+18,East,Gujarat,Rural,Vadodara,Personal,Entertainment,TV,0,0,0,2,2,2,15000,13,10,Manufacturer,2.4,Claim,0
+19,North,Andhra Pradesh,Rural,Hyderabad,Personal,Household,AC,2,1,2,0,0,0,10000,15,12,Dealer,6.5,Claim,0
+20,North East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,15,15,Manufacturer,0.5,Claim,0
+21,North West,Kerala,Rural,Kochi,Personal,Household,AC,1,1,1,0,0,0,20000,14,6,Manufacturer,1,Claim,0
+22,South East,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,1,1,1,25000,12,3,Dealer,1.5,Complaint,0
+23,South West,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,21000,13,4,Internet,2.5,Complaint,0
+24,South,Delhi,Rural,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,5,Manufacturer,1.3,Complaint,0
+25,West,Kerala,Rural,Kochi,Business,Entertainment,TV,0,0,0,1,1,1,10000,12,18,Dealer,1.4,Claim,0
+26,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,2,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+27,North,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,20000,15,4,Manufacturer,2.6,Claim,0
+28,North East,Delhi,Urban,New Delhi,Personal,Household,AC,2,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+29,North West,Delhi,Urban,New Delhi,Personal,Household,AC,2,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+30,South East,Kerala,Urban,Kochi,Business,Household,AC,2,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,0
+31,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,2,0,10000,13,19,Dealer,1,Claim,0
+32,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,1
+33,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,0,2,0,20000,12,18,Dealer,2.5,Claim,1
+34,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,1,1,1,25000,13,60,Dealer,1.3,Complaint,0
+35,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,12000,15,10,Internet,1.4,Complaint,0
+36,North East,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,15000,15,12,Manufacturer,1.6,Complaint,1
+37,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Claim,0
+38,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,1,0,0,0,50000,12,6,Dealer,2.4,Claim,0
+39,South West,Kerala,Rural,Kochi,Business,Household,AC,0,2,0,0,0,0,20000,13,3,Manufacturer,6.5,Claim,0
+40,South,Andhra Pradesh,Rural,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,4,Dealer,0.5,Complaint,0
+41,West,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,0,0,12000,12,5,Internet,1,Complaint,0
+42,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Dealer,1.5,Complaint,0
+43,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,10000,15,7,Dealer,2.5,Claim,0
+44,North East,Bihar,Urban,Patna,Personal,Household,AC,0,0,0,0,0,0,50000,15,4,Manufacturer,1.3,Claim,0
+45,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Dealer,1.4,Claim,0
+46,South East,Kerala,Rural,Kochi,Business,Household,AC,0,0,0,0,0,0,25000,12,16,Dealer,1.6,Complaint,0
+47,South West,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,12000,13,9,Internet,2.6,Complaint,0
+48,South,Kerala,Rural,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,10,19,Manufacturer,2.4,Other,0
+49,West,Gujarat,Rural,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,2,10000,12,14,Dealer,6.5,Other,0
+50,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,2,50000,13,18,Manufacturer,0.5,Claim,0
+51,North,Maharashtra,Rural,Pune,Personal,Entertainment,TV,0,0,0,0,0,1,20000,15,60,Dealer,1,Claim,0
+52,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,2,25000,15,10,Dealer,1.5,Complaint,0
+53,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,1,0,0,0,12000,14,12,Internet,2.5,Claim,0
+54,South East,Kerala,Rural,Kochi,Business,Entertainment,TV,0,0,0,1,0,2,15000,12,15,Dealer,1.3,Complaint,0
+55,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+56,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,50000,10,3,Manufacturer,1.6,Claim,0
+57,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Dealer,2.6,Claim,0
+58,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,2,0,15000,10,60,Manufacturer,0.5,Complaint,0
+66,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,1
+67,West,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,20000,12,7,Manufacturer,6.5,Claim,1
+70,North East,Gujarat,Rural,Vadodara,Personal,Household,AC,1,1,0,0,0,0,15000,15,16,Manufacturer,1.5,Complaint,1
+72,South East,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,50000,12,19,Manufacturer,1.3,Claim,1
+73,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,1
+76,East,Gujarat,Rural,Vadodara,Personal,Entertainment,TV,0,0,0,2,2,2,15000,13,10,Manufacturer,2.4,Complaint,1
+77,North,Andhra Pradesh,Rural,Hyderabad,Personal,Household,AC,1,1,2,0,0,0,10000,15,12,Dealer,6.5,Claim,0
+79,North West,Kerala,Rural,Kochi,Personal,Household,AC,0,1,1,0,0,0,20000,14,6,Manufacturer,1,Claim,0
+81,South West,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,2,1,21000,13,4,Internet,2.5,Complaint,0
+84,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,1,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+85,North,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,20000,15,4,Manufacturer,2.6,Claim,1
+86,North East,Delhi,Urban,New Delhi,Personal,Household,AC,1,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+87,North West,Delhi,Urban,New Delhi,Personal,Household,AC,1,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+88,South East,Kerala,Urban,Kochi,Business,Household,AC,1,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,1
+90,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,0
+92,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,0,1,1,25000,13,60,Dealer,1.3,Claim,0
+94,North East,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,15000,15,12,Manufacturer,1.6,Complaint,0
+95,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Other,0
+116,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,1,5557,13,153,Internet,30,Complaint,0
+117,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,1,373,14,72,Dealer,30,Claim,0
+118,South,Kerala,Urban,Kochi,Business,Household,AC,0,2,1,0,0,0,2742,10,214,Manufacturer,30,Complaint,0
+119,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,1,2,1,5901,11,370,Dealer,30,Claim,0
+120,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,0,2,1,4585,12,821,Manufacturer,17,Complaint,0
+121,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,0,1,0,8386,12,197,Dealer,30,Claim,0
+122,South West,Goa,Rural,Panaji,Business,Entertainment,TV,0,0,0,0,2,1,6610,14,908,Dealer,30,Complaint,0
+123,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,0,3905,13,683,Dealer,19,Claim,0
+124,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Household,AC,1,1,2,0,0,0,7760,13,854,Manufacturer,30,Complaint,0
+125,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,0,7028,14,679,Manufacturer,30,Claim,1
+126,North,Jammu and Kashmir,Urban,Srinagar,Business,Entertainment,TV,0,0,0,1,1,1,5284,15,210,Dealer,30,Claim,0
+127,North,Jammu and Kashmir,Rural,Srinagar,Personal,Entertainment,TV,0,0,0,0,2,0,1571,11,55,Dealer,30,Claim,0
+128,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,0,1,1,4000,15,363,Dealer,30,Other,0
+129,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,0,4805,12,948,Dealer,3,Claim,0
+130,North East,Assam,Urban,Guwhati,Personal,Entertainment,TV,0,0,0,1,2,0,3501,14,43,Dealer,30,Other,1
+131,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,7755,13,550,Dealer,30,Claim,0
+132,North West,Rajasthan,Urban,Jaipur,Business,Household,AC,1,1,2,0,0,0,6956,11,117,Manufacturer,6,Other,0
+133,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,1,2,0,0,0,6542,13,271,Dealer,4,Claim,0
+134,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,1,0,170,11,371,Dealer,30,Other,0
+135,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,6993,15,505,Manufacturer,7,Complaint,1
+136,South East,Andhra Pradesh,Rural,Vizag,Personal,Household,AC,0,1,0,0,0,0,4948,13,942,Manufacturer,30,Claim,0
+137,South,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,0,2,0,3549,13,199,Internet,30,Other,0
+138,North West,Madhya Pradesh,Rural,Bhopal,Personal,Entertainment,TV,0,0,0,1,1,1,7725,11,960,Manufacturer,30,Other,0
+139,South,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,1,1,1,4862,10,854,Dealer,30,Claim,0
+140,North,Uttar Pradesh,Urban,Meerut,Business,Entertainment,TV,0,0,0,0,2,0,1656,14,827,Internet,30,Claim,0
+141,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,1,0,0,0,0,4000,15,864,Manufacturer,30,Other,0
+142,East,Bihar,Urban,Patna,Personal,Entertainment,TV,0,0,0,2,1,0,2856,11,625,Internet,8,Other,0
+143,South,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,1,2,0,4097,13,23,Internet,30,Other,0
+144,South,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,2,1,0,5191,10,411,Manufacturer,30,Claim,0
+145,South,Karnataka,Rural,Bangalore,Personal,Household,AC,1,1,0,0,0,0,7778,10,140,Dealer,30,Other,0
+146,North,Delhi,Rural,Delhi,Business,Household,AC,0,1,0,0,0,0,5316,12,872,Manufacturer,30,Claim,0
+147,East,Jharkhand,Urban,Ranchi,Personal,Household,AC,0,1,2,0,0,0,4905,11,613,Manufacturer,30,Claim,0
+148,East,Bihar,Rural,Patna,Personal,Household,AC,1,1,2,0,0,0,970,14,6,Internet,30,Claim,0
+149,North East,Assam,Rural,Guwhati,Personal,Household,AC,0,1,2,0,0,0,4474,12,202,Manufacturer,30,Claim,0
+150,North,Delhi,Rural,Delhi,Personal,Entertainment,TV,0,0,0,1,2,0,4891,14,337,Dealer,30,Complaint,0
+151,North East,Tripura,Rural,Agartala,Personal,Household,AC,0,1,2,0,0,0,4024,12,721,Dealer,30,Complaint,0
+152,North,Himachal Pradesh,Rural,Shimla,Personal,Entertainment,TV,0,0,0,2,1,1,3316,13,804,Internet,30,Claim,0
+153,South East,Andhra Pradesh,Rural,Vizag,Personal,Entertainment,TV,0,0,0,1,1,0,4216,13,522,Internet,30,Claim,0
+154,South,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,1,2,1,821,15,933,Dealer,13,Claim,0
+155,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,4504,12,123,Dealer,30,Claim,0
+156,West,Gujarat,Rural,Ahmedabad,Personal,Household,AC,0,1,0,0,0,0,7153,14,444,Dealer,30,Other,0
+157,East,Bihar,Rural,Patna,Personal,Entertainment,TV,0,0,0,1,1,1,3401,13,824,Internet,30,Claim,0
+158,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,5770,14,108,Internet,30,Claim,0
+159,North West,Madhya Pradesh,Rural,Bhopal,Personal,Household,AC,1,1,0,0,0,0,3539,12,126,Internet,30,Other,0
+160,East,West Bengal,Rural,Kolkata,Business,Entertainment,TV,0,0,0,1,2,0,3949,11,556,Internet,30,Complaint,0
+161,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,1,1,0,6586,13,35,Dealer,30,Claim,0
+162,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,2,2,1,6022,11,112,Manufacturer,14,Claim,0
+163,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,5764,14,377,Dealer,20,Other,0
+164,East,West Bengal,Rural,Kolkata,Personal,Entertainment,TV,0,0,0,2,1,0,2250,14,487,Internet,30,Other,0
+165,West,Gujarat,Rural,Ahmedabad,Personal,Household,AC,2,0,1,0,0,0,5652,10,758,Dealer,30,Claim,0
+166,South,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,2,0,5918,11,705,Dealer,9,Claim,0
+167,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,0,1,0,3541,12,391,Manufacturer,27,Complaint,0
+168,South West,Goa,Rural,Panaji,Personal,Household,AC,1,0,0,0,0,0,6449,11,826,Manufacturer,30,Claim,0
+169,East,West Bengal,Urban,Kolkata,Personal,Household,AC,0,1,0,0,0,0,4388,13,309,Manufacturer,30,Complaint,0
+170,East,Bihar,Rural,Patna,Personal,Entertainment,TV,0,0,0,0,1,0,5716.5,13,176,Internet,30,Complaint,0
+171,West,Maharashtra,Rural,Mumbai,Personal,Household,AC,1,0,1,0,0,0,3129,14,94,Dealer,19,Other,0
+172,West,Maharashtra,Rural,Mumbai,Business,Household,AC,0,0,1,0,0,0,5418,14,914,Internet,30,Claim,0
+173,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,1,7369,11,833,Dealer,30,Claim,0
+174,North,Himachal Pradesh,Urban,Shimla,Personal,Household,AC,0,2,1,0,0,0,5584,11,111,Dealer,4,Other,0
+175,North West,Madhya Pradesh,Rural,Bhopal,Personal,Entertainment,TV,0,0,0,0,2,1,1029,13,154,Dealer,30,Claim,0
+176,West,Maharashtra,Rural,Mumbai,Business,Household,AC,0,1,1,0,0,0,7000,14,961,Dealer,30,Claim,0
+177,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,2961,12,547,Internet,30,Other,0
+178,South,Karnataka,Rural,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,5987,11,801,Internet,30,Other,0
+179,East,Bihar,Rural,Patna,Personal,Household,AC,0,2,1,0,0,0,4163,11,383,Dealer,20,Claim,0
+180,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,0,7528,10,968,Internet,30,Complaint,0
+181,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,1,2,1,4216,11,626,Internet,30,Complaint,0
+182,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,7370,13,698,Manufacturer,30,Other,0
+183,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,1,0,8344,14,3,Internet,3,Complaint,0
+184,South,Kerala,Urban,Kochi,Personal,Household,AC,0,1,1,0,0,0,2538,12,73,Dealer,30,Claim,0
+185,South,Karnataka,Rural,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,5465,12,776,Internet,24,Claim,0
+186,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,1,2,1,3149,14,820,Dealer,28,Claim,0
+187,South,Karnataka,Rural,Bangalore,Business,Household,AC,0,1,0,0,0,0,4431,11,27,Internet,30,Complaint,0
+188,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,3998,11,497,Manufacturer,30,Claim,0
+189,West,Gujarat,Rural,Ahmedabad,Business,Entertainment,TV,0,0,0,1,1,0,3589,13,22,Manufacturer,30,Complaint,0
+190,East,West Bengal,Rural,Kolkata,Personal,Household,AC,0,2,1,0,0,0,1388,12,530,Manufacturer,30,Claim,0
+191,West,Maharashtra,Rural,Mumbai,Business,Household,AC,0,1,1,0,0,0,1003,15,576,Dealer,30,Claim,0
+192,South,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,1,2,1,1691,13,746,Dealer,30,Other,0
+193,North West,Rajasthan,Rural,Jaipur,Personal,Household,AC,1,1,2,0,0,0,4674,12,727,Manufacturer,30,Complaint,0
+194,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,10000,10,574,Manufacturer,30,Claim,0
+195,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,3651,11,388,Internet,30,Claim,1
+196,North West,Madhya Pradesh,Rural,Bhopal,Business,Entertainment,TV,0,0,0,0,1,0,3580,11,219,Dealer,30,Other,0
+197,West,Gujarat,Rural,Ahmedabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,11,408,Dealer,30,Claim,0
+198,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,1,2,0,6405,11,790,Manufacturer,30,Complaint,0
+199,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,0,1,1,5618,14,289,Dealer,30,Claim,1
+200,South,Kerala,Rural,Kochi,Personal,Entertainment,TV,0,0,0,1,1,0,6732,13,873,Dealer,30,Complaint,1
+201,East,West Bengal,Rural,Kolkata,Personal,Entertainment,TV,0,0,0,1,1,1,6767,12,338,Internet,7,Other,0
+202,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,2,1,501,10,409,Internet,30,Claim,0
+203,North,Uttar Pradesh,Rural,Meerut,Personal,Household,AC,0,1,0,0,0,0,5821,13,951,Manufacturer,30,Complaint,0
+204,North,Delhi,Urban,Delhi,Business,Household,AC,1,2,0,0,0,0,7235,13,125,Dealer,30,Complaint,0
+205,North,Delhi,Rural,Delhi,Business,Entertainment,TV,0,0,0,1,1,1,4088,13,495,Dealer,30,Claim,0
+206,North,Uttar Pradesh,Rural,Meerut,Personal,Household,AC,2,2,0,0,0,0,4396,13,327,Internet,8,Claim,0
+207,West,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,0,4216,10,672,Dealer,25,Other,0
+208,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,609,Internet,5,Claim,0
+209,East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,1,2,1,5283,11,883,Dealer,12,Claim,0
+210,South,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,0,1,1,5033,11,284,Dealer,30,Claim,0
+211,South West,Goa,Urban,Panaji,Personal,Household,AC,0,2,0,0,0,0,4832,14,481,Internet,30,Complaint,0
+212,East,Jharkhand,Rural,Ranchi,Personal,Household,AC,1,1,2,0,0,0,5513,12,991,Dealer,30,Complaint,0
+213,North East,Tripura,Urban,Agartala,Personal,Household,AC,0,1,1,0,0,0,2515,10,748,Manufacturer,30,Other,0
+214,North,Delhi,Rural,Delhi,Personal,Entertainment,TV,0,0,0,1,1,0,4674,13,333,Manufacturer,30,Claim,0
+215,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,2,1,2538,14,353,Dealer,30,Complaint,0
+216,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,1,0,0,0,0,2000,15,187,Manufacturer,10,Complaint,0
+217,South,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,0,0,0,0,0,2000,15,52,Dealer,6,Complaint,0
+218,North West,Rajasthan,Urban,Jaipur,Personal,Household,AC,2,0,0,0,0,0,5000,11,118,Internet,23,Complaint,0
+219,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,9000,14,173,Manufacturer,7,Claim,0
+220,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,0,7000,14,43,Dealer,17,Claim,0
+221,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,0,5000,14,197,Internet,13,Complaint,0
+222,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,1,0,0,0,0,0,2000,14,304,Internet,20,Claim,1
+223,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,2,0,0,0,0,0,5000,14,167,Manufacturer,9,Complaint,0
+224,West,Maharashtra,Urban,Mumbai,Business,Household,AC,2,0,0,0,0,0,5000,14,49,Internet,22,Complaint,1
+225,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,1,7000,14,293,Manufacturer,13,Complaint,0
+226,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,0,0,0,0,0,0,0,14,332,Manufacturer,20,Complaint,1
+227,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,4000,14,331,Manufacturer,24,Complaint,0
+228,South,Karnataka,Urban,Bangalore,Business,Household,AC,1,0,0,0,0,0,2000,15,329,Dealer,14,Complaint,0
+229,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,0,1,0,2000,15,315,Internet,23,Complaint,0
+230,South,Karnataka,Urban,Bangalore,Business,Household,AC,2,0,0,0,0,0,5000,15,112,Dealer,15,Complaint,0
+231,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,2,0,0,5000,15,281,Manufacturer,4,Complaint,0
+232,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,0,0,0,0,0,2000,15,57,Internet,15,Complaint,0
+233,South,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,0,4000,15,61,Dealer,20,Complaint,0
+234,South,Karnataka,Urban,Bangalore,Personal,Household,AC,2,2,0,0,0,0,10000,15,349,Internet,21,Complaint,0
+235,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,244,Manufacturer,4,Complaint,0
+236,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,0,15,281,Internet,19,Complaint,0
+237,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,343,Internet,7,Complaint,0
+238,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,80,Manufacturer,12,Complaint,0
+239,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,323,Dealer,8,Complaint,0
+240,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,167,Internet,15,Complaint,0
+241,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,0,0,0,0,0,2000,15,147,Manufacturer,12,Complaint,0
+242,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,345,Internet,1,Complaint,0
+243,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,68,Dealer,10,Complaint,0
+244,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,68,Manufacturer,9,Complaint,0
+245,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,1,0,0,0,0,2000,15,218,Internet,16,Complaint,0
+246,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,2,0,0,0,0,10000,15,35,Internet,11,Claim,0
+247,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,0,0,0,0,0,5000,15,152,Dealer,18,Claim,0
+248,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,1,0,0,0,6000,15,280,Dealer,21,Complaint,0
+249,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,0,15,213,Manufacturer,2,Complaint,0
+250,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,254,Dealer,9,Claim,0
+251,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,39,Dealer,11,Claim,0
+252,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,36,Internet,5,Complaint,0
+253,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,233,Manufacturer,21,Claim,0
+254,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,2,0,0,0,0,7000,12,247,Internet,18,Complaint,0
+255,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,0,1,0,2000,12,30,Dealer,8,Claim,0
+256,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,350,Internet,18,Complaint,0
+257,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,205,Manufacturer,24,Complaint,0
+258,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,311,Dealer,4,Claim,0
+259,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,280,Internet,19,Claim,0
+260,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,1,0,0,0,0,4000,12,233,Dealer,6,Complaint,0
+261,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,1,4000,12,324,Manufacturer,19,Claim,0
+262,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,22,Dealer,23,Claim,0
+263,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,1,0,4000,12,282,Internet,15,Complaint,0
+264,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,1,0,0,0,0,4000,12,347,Internet,6,Claim,0
+265,South East,Orissa,Urban,Bhubaneswar,Business,Entertainment,TV,0,0,0,1,0,0,2000,12,274,Manufacturer,11,Claim,0
+266,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,2,0,0,0,0,7000,12,193,Dealer,7,Claim,0
+267,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,2,2,2,0,0,0,15000,12,197,Internet,4,Claim,0
+268,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,32,Manufacturer,14,Claim,0
+269,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,365,Internet,5,Complaint,0
+270,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,61,Dealer,24,Claim,0
+271,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,170,Manufacturer,19,Claim,0
+272,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,2,2,0,0,0,15000,15,303,Internet,7,Complaint,0
+273,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,330,Dealer,8,Claim,0
+274,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,79,Dealer,7,Claim,0
+275,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,1,4000,15,26,Manufacturer,23,Complaint,0
+276,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,0,0,0,0,0,5000,15,45,Internet,24,Claim,0
+277,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,287,Dealer,1,Claim,0
+278,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,1,0,0,0,0,0,2000,15,224,Manufacturer,23,Complaint,0
+279,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,275,Internet,21,Claim,0
+280,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,2,0,0,0,0,0,5000,15,315,Dealer,3,Claim,0
+281,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,301,Manufacturer,3,Complaint,0
+282,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,0,0,0,0,0,2000,15,356,Internet,13,Claim,0
+283,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,301,Dealer,18,Claim,0
+284,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,2,0,0,0,0,7000,15,333,Internet,24,Complaint,0
+285,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,103,Manufacturer,16,Claim,0
+286,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,288,Dealer,18,Claim,0
+287,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,125,Internet,1,Complaint,0
+288,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,148,Manufacturer,24,Claim,1
+289,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,291,Dealer,1,Claim,0
+290,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,180,Internet,22,Complaint,0
+291,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,1,1,0,4000,10,81,Internet,21,Claim,0
+292,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,46,Manufacturer,8,Claim,0
+293,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,147,Dealer,22,Complaint,0
+294,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,159,Dealer,3,Claim,0
+295,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,1,0,4000,10,287,Manufacturer,15,Claim,0
+296,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,271,Dealer,2,Complaint,0
+297,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,2,2,0,0,0,0,10000,10,206,Dealer,17,Claim,0
+298,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,300,Manufacturer,14,Complaint,0
+299,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,257,Internet,25,Claim,0
+300,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,1,0,0,0,0,4000,10,131,Dealer,1,Claim,0
+301,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,340,Manufacturer,10,Claim,0
+302,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,345,Dealer,2,Complaint,0
+303,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,276,Dealer,8,Claim,0
+304,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,171,Manufacturer,4,Claim,0
+305,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,299,Dealer,9,Complaint,0
+306,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,1,0,0,0,0,4000,10,335,Dealer,14,Claim,0
+307,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,21,Manufacturer,24,Claim,0
+308,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,55,Dealer,21,Claim,0
+309,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,212,Dealer,4,Complaint,0
+310,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,190,Manufacturer,6,Claim,0
+311,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,1,1,4000,10,275,Dealer,11,Claim,0
+312,North East,West Bengal,Urban,Kolkata,Business,Household,AC,1,2,0,0,0,0,7000,10,151,Dealer,19,Complaint,0
+313,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,0,1,1,4000,10,153,Internet,22,Claim,0
+314,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,160,Manufacturer,19,Claim,0
+315,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,15000,10,60,Manufacturer,0.5,Complaint,1
+316,West,Rajasthan,Rural,Jaipur,Business,Household,AC,0,0,0,0,0,0,10000,12,10,Dealer,1,Claim,0
+317,East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,0,1,1,0,0,0,50000,13,12,Manufacturer,1.5,Claim,1
+318,North,Delhi,Urban,New Delhi,Personal,Household,AC,0,1,0,0,0,0,20000,15,15,Manufacturer,2.5,Claim,0
+319,North East,Jharkhand,Rural,Ranchi,Personal,Entertainment,TV,0,0,0,0,0,0,25000,15,6,Dealer,1.3,Complaint,0
+320,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,12000,14,3,Internet,1.4,Complaint,0
+321,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,1
+325,East,Bihar,Rural,Patna,Personal,Household,AC,0,0,0,0,0,0,25000,13,4,Dealer,0.5,Complaint,0
+327,North East,Gujarat,Rural,Vadodara,Personal,Household,AC,1,1,0,0,0,0,15000,15,16,Manufacturer,1.5,Complaint,0
+328,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Claim,0
+331,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1.6,Complaint,0
+332,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+333,East,Gujarat,Rural,Vadodara,Personal,Entertainment,TV,0,0,0,2,2,2,15000,13,10,Manufacturer,2.4,Complaint,0
+334,North,Andhra Pradesh,Rural,Hyderabad,Personal,Household,AC,0,0,2,0,0,0,10000,15,12,Dealer,6.5,Claim,0
+338,South West,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,12000,13,4,Internet,2.5,Complaint,0
+339,South,Delhi,Rural,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,5,Manufacturer,1.3,Complaint,1
+341,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,13,7,Manufacturer,1.6,Claim,1
+343,North East,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+344,North West,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+345,South East,Kerala,Urban,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,12,9,Manufacturer,0.5,Complaint,0
+347,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,50000,10,14,Manufacturer,1.5,Claim,0
+348,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,0,2,0,20000,12,18,Manufacturer,2.5,Claim,1
+350,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,0,15,10,Internet,1.4,Complaint,0
+353,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,50000,12,6,Manufacturer,2.4,Claim,0
+354,South West,Kerala,Rural,Kochi,Business,Household,AC,0,0,0,0,0,0,20000,13,3,Manufacturer,6.5,Claim,0
+357,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Manufacturer,1.5,Complaint,0
+360,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Manufacturer,1.4,Claim,0
+363,South,Kerala,Rural,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,10,19,Manufacturer,2.4,Other,1
+365,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,2,50000,13,18,Manufacturer,0.5,Complaint,1
+366,North,Maharashtra,Rural,Pune,Personal,Entertainment,TV,0,0,0,0,0,1,20000,15,60,Manufacturer,1,Claim,1
+367,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,2,25000,15,10,Dealer,1.5,Claim,0
+368,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,0,0,0,0,12000,14,12,Internet,2.5,Claim,0
+369,South East,Kerala,Rural,Kochi,Business,Entertainment,TV,0,0,0,0,0,2,15000,12,15,Manufacturer,1.3,Complaint,0
+370,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+372,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Manufacturer,2.6,Claim,0
+373,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,25000,13,5,Dealer,2.4,Claim,0
+374,North,Maharashtra,Rural,Pune,Personal,Entertainment,TV,0,0,0,0,0,0,12000,15,18,Internet,6.5,Complaint,0
+375,North East,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,15,7,Manufacturer,0.5,Claim,0
+376,North West,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,10000,14,4,Dealer,1,Complaint,0
+377,South East,Bihar,Rural,Patna,Business,Household,AC,0,0,0,0,0,0,50000,12,21,Manufacturer,1.5,Complaint,0
+378,South West,Maharashtra,Urban,Pune,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,16,Manufacturer,2.5,Other,1
+379,South,Maharashtra,Rural,Pune,Business,Household,AC,0,0,0,0,0,0,25000,10,9,Dealer,1.3,Other,0
+380,West,Bihar,Urban,Patna,Business,Household,AC,0,0,0,0,0,0,12000,12,19,Internet,1.4,Complaint,0
+381,East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,15000,13,14,Manufacturer,1.6,Claim,1
+382,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,1,1,1,10000,15,18,Dealer,2.6,Claim,0
+383,North East,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,1,1,1,50000,15,60,Manufacturer,2.4,Claim,1
+384,North West,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,20000,14,10,Manufacturer,6.5,Complaint,0
+385,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,12,Dealer,0.5,Complaint,0
+386,South West,Delhi,Rural,New Delhi,Business,Household,AC,0,0,0,0,0,0,12000,13,15,Internet,1,Claim,0
+387,South,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,6,Manufacturer,1.5,Claim,0
+388,West,Andhra Pradesh,Rural,Hyderabad,Business,Household,AC,0,0,0,0,0,0,10000,12,3,Dealer,2.5,Claim,0
+389,East,Tamil Nadu,Rural,Chennai,Personal,Household,AC,0,0,0,0,0,0,50000,13,4,Manufacturer,1.3,Complaint,0
+390,North,Kerala,Rural,Kochi,Personal,Household,AC,0,0,0,0,0,0,20000,15,5,Manufacturer,1.4,Claim,0
+391,North East,Maharashtra,Urban,Pune,Personal,Entertainment,TV,0,0,0,0,0,0,25000,15,18,Dealer,1.6,Complaint,0
+392,North West,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,12000,14,7,Internet,2.6,Complaint,0
+393,South East,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,12,4,Manufacturer,2.4,Other,0
+394,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,13,21,Dealer,6.5,Other,0
+395,South,Bihar,Urban,Purnea,Business,Household,AC,0,0,0,0,0,0,50000,10,16,Manufacturer,0.5,Complaint,0
+396,West,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,20000,12,9,Manufacturer,1,Claim,0
+397,East,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,0,0,0,0,0,25000,13,19,Dealer,1.5,Claim,0
+398,North,Gujarat,Rural,Vadodara,Personal,Household,AC,1,1,1,0,0,0,12000,15,14,Internet,2.5,Claim,0
+399,North East,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,1,1,0,0,0,15000,15,18,Manufacturer,1.3,Complaint,0
+400,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,10000,14,60,Dealer,1.4,Complaint,0
+401,South East,Maharashtra,Rural,Pune,Business,Entertainment,TV,0,0,0,0,0,0,50000,12,10,Manufacturer,1.6,Claim,0
+402,South West,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,12,Manufacturer,2.6,Claim,0
+403,South,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,15,Dealer,2.4,Claim,0
+404,West,Bihar,Rural,Purnea,Business,Household,AC,0,0,0,0,0,0,12000,12,6,Internet,6.5,Complaint,0
+405,East,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,3,Manufacturer,0.5,Complaint,0
+406,North,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,0,0,0,0,0,0,10000,15,4,Dealer,1,Other,0
+407,North East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,50000,15,5,Manufacturer,1.5,Other,0
+408,North West,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,20000,14,18,Manufacturer,2.5,Other,0
+409,South East,Gujarat,Urban,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,7,Dealer,1.3,Other,0
+410,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,12000,13,4,Internet,1.4,Other,0
+411,South,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,21,Manufacturer,1.6,Other,0
+412,West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,12,16,Dealer,2.6,Other,0
+413,East,Kerala,Rural,Kochi,Personal,Household,AC,0,0,0,0,0,0,50000,13,9,Manufacturer,2.4,Other,0
+414,North,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,0,0,1,20000,15,19,Manufacturer,6.5,Other,0
+415,East,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,0,13,3,Manufacturer,0.5,Complaint,0
+416,North East,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,0,15,12,Manufacturer,1.6,Complaint,0
+417,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,0,15,254,Dealer,9,Claim,0
+418,East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,1,1,0,0,0,50000,13,12,Manufacturer,1.5,Claim,1
+419,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,2,2,0,0,0,0,15,303,Internet,7,Complaint,0
+420,South,Karnataka,Rural,Bangalore,Business,Household,AC,1,1,0,0,0,0,20000,12,10,Dealer,1,Complaint,0
+421,North East,Jharkhand,Rural,Ranchi,Personal,Entertainment,TV,0,0,0,0,1,2,25000,15,6,Dealer,1.3,Claim,0
+422,West,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,20000,12,7,Manufacturer,6.5,Claim,0
+423,East,Bihar,Rural,Patna,Personal,Household,AC,0,0,2,0,0,0,25000,13,4,Dealer,0.5,Complaint,0
+424,North,Bihar,Rural,Purnea,Personal,Household,AC,1,1,0,0,0,0,12000,15,21,Internet,1,Complaint,0
+425,North East,Gujarat,Rural,Vadodara,Personal,Household,AC,1,1,0,0,0,0,15000,15,16,Manufacturer,1.5,Claim,0
+426,South East,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,50000,12,19,Manufacturer,1.3,Claim,0
+427,East,Gujarat,Rural,Vadodara,Personal,Entertainment,TV,0,0,0,2,2,2,15000,13,10,Manufacturer,2.4,Claim,0
+428,North,Andhra Pradesh,Rural,Hyderabad,Personal,Household,AC,2,1,2,0,0,0,10000,15,12,Dealer,6.5,Claim,0
+429,North West,Kerala,Rural,Kochi,Personal,Household,AC,1,1,1,0,0,0,20000,14,6,Manufacturer,1,Claim,0
+430,South West,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,21000,13,4,Internet,2.5,Complaint,0
+431,South,Delhi,Rural,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,5,Manufacturer,1.3,Complaint,0
+432,West,Kerala,Rural,Kochi,Business,Entertainment,TV,0,0,0,1,1,1,10000,12,18,Dealer,1.4,Claim,0
+433,North,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,20000,15,4,Manufacturer,2.6,Claim,0
+434,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,0,2,0,20000,12,18,Dealer,2.5,Claim,1
+435,North East,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,15000,15,12,Manufacturer,1.6,Complaint,1
+436,South West,Kerala,Rural,Kochi,Business,Household,AC,0,2,0,0,0,0,20000,13,3,Manufacturer,6.5,Claim,0
+437,South,Andhra Pradesh,Rural,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,4,Dealer,0.5,Complaint,0
+438,South East,Kerala,Rural,Kochi,Business,Household,AC,0,0,0,0,0,0,25000,12,16,Dealer,1.6,Complaint,0
+439,South,Kerala,Rural,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,10,19,Manufacturer,2.4,Other,0
+440,West,Gujarat,Rural,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,2,10000,12,14,Dealer,6.5,Other,0
+441,North,Maharashtra,Rural,Pune,Personal,Entertainment,TV,0,0,0,0,0,1,20000,15,60,Dealer,1,Claim,0
+442,South East,Kerala,Rural,Kochi,Business,Entertainment,TV,0,0,0,1,0,2,15000,12,15,Dealer,1.3,Complaint,0
+443,West,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,20000,12,7,Manufacturer,6.5,Claim,1
+444,North East,Gujarat,Rural,Vadodara,Personal,Household,AC,1,1,0,0,0,0,15000,15,16,Manufacturer,1.5,Complaint,1
+445,South East,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,50000,12,19,Manufacturer,1.3,Claim,1
+446,East,Gujarat,Rural,Vadodara,Personal,Entertainment,TV,0,0,0,2,2,2,15000,13,10,Manufacturer,2.4,Complaint,1
+447,North,Andhra Pradesh,Rural,Hyderabad,Personal,Household,AC,1,1,2,0,0,0,10000,15,12,Dealer,6.5,Claim,0
+448,North West,Kerala,Rural,Kochi,Personal,Household,AC,0,1,1,0,0,0,20000,14,6,Manufacturer,1,Claim,0
+449,South West,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,2,1,21000,13,4,Internet,2.5,Complaint,0
+450,North,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,20000,15,4,Manufacturer,2.6,Claim,1
+451,North East,Gujarat,Rural,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,15000,15,12,Manufacturer,1.6,Complaint,0
+452,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,1,5557,13,153,Internet,30,Complaint,0
+453,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,0,2,1,4585,12,821,Manufacturer,17,Complaint,0
+454,South West,Goa,Rural,Panaji,Business,Entertainment,TV,0,0,0,0,2,1,6610,14,908,Dealer,30,Complaint,0
+455,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,0,3905,13,683,Dealer,19,Claim,0
+456,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Household,AC,1,1,2,0,0,0,7760,13,854,Manufacturer,30,Complaint,0
+457,North,Jammu and Kashmir,Rural,Srinagar,Personal,Entertainment,TV,0,0,0,0,2,0,1571,11,55,Dealer,30,Claim,0
+458,South East,Andhra Pradesh,Rural,Vizag,Personal,Household,AC,0,1,0,0,0,0,4948,13,942,Manufacturer,30,Claim,0
+459,South,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,0,2,0,3549,13,199,Internet,30,Other,0
+460,North West,Madhya Pradesh,Rural,Bhopal,Personal,Entertainment,TV,0,0,0,1,1,1,7725,11,960,Manufacturer,30,Other,0
+461,South,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,1,2,0,4097,13,23,Internet,30,Other,0
+462,South,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,2,1,0,5191,10,411,Manufacturer,30,Claim,0
+463,South,Karnataka,Rural,Bangalore,Personal,Household,AC,1,1,0,0,0,0,7778,10,140,Dealer,30,Other,0
+464,North,Delhi,Rural,Delhi,Business,Household,AC,0,1,0,0,0,0,5316,12,872,Manufacturer,30,Claim,0
+465,East,Bihar,Rural,Patna,Personal,Household,AC,1,1,2,0,0,0,970,14,6,Internet,30,Claim,0
+466,North East,Assam,Rural,Guwhati,Personal,Household,AC,0,1,2,0,0,0,4474,12,202,Manufacturer,30,Claim,0
+467,North,Delhi,Rural,Delhi,Personal,Entertainment,TV,0,0,0,1,2,0,4891,14,337,Dealer,30,Complaint,0
+468,North East,Tripura,Rural,Agartala,Personal,Household,AC,0,1,2,0,0,0,4024,12,721,Dealer,30,Complaint,0
+469,North,Himachal Pradesh,Rural,Shimla,Personal,Entertainment,TV,0,0,0,2,1,1,3316,13,804,Internet,30,Claim,0
+470,South East,Andhra Pradesh,Rural,Vizag,Personal,Entertainment,TV,0,0,0,1,1,0,4216,13,522,Internet,30,Claim,0
+471,South,Karnataka,Rural,Bangalore,Business,Entertainment,TV,0,0,0,1,2,1,821,15,933,Dealer,13,Claim,0
+472,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,4504,12,123,Dealer,30,Claim,0
+473,West,Gujarat,Rural,Ahmedabad,Personal,Household,AC,0,1,0,0,0,0,7153,14,444,Dealer,30,Other,0
+474,East,Bihar,Rural,Patna,Personal,Entertainment,TV,0,0,0,1,1,1,3401,13,824,Internet,30,Claim,0
+475,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,5770,14,108,Internet,30,Claim,0
+476,North West,Madhya Pradesh,Rural,Bhopal,Personal,Household,AC,1,1,0,0,0,0,3539,12,126,Internet,30,Other,0
+477,East,West Bengal,Rural,Kolkata,Business,Entertainment,TV,0,0,0,1,2,0,3949,11,556,Internet,30,Complaint,0
+478,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,2,2,1,6022,11,112,Manufacturer,14,Claim,0
+479,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,5764,14,377,Dealer,20,Other,0
+480,East,West Bengal,Rural,Kolkata,Personal,Entertainment,TV,0,0,0,2,1,0,2250,14,487,Internet,30,Other,0
+481,West,Gujarat,Rural,Ahmedabad,Personal,Household,AC,2,0,1,0,0,0,5652,10,758,Dealer,30,Claim,0
+482,South,Tamil Nadu,Rural,Chennai,Business,Entertainment,TV,0,0,0,1,2,0,5918,11,705,Dealer,9,Claim,0
+483,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,0,1,0,3541,12,391,Manufacturer,27,Complaint,0
+484,South West,Goa,Rural,Panaji,Personal,Household,AC,1,0,0,0,0,0,6449,11,826,Manufacturer,30,Claim,0
+485,East,Bihar,Rural,Patna,Personal,Entertainment,TV,0,0,0,0,1,0,5716.5,13,176,Internet,30,Complaint,0
+486,West,Maharashtra,Rural,Mumbai,Personal,Household,AC,1,0,1,0,0,0,3129,14,94,Dealer,19,Other,0
+487,West,Maharashtra,Rural,Mumbai,Business,Household,AC,0,0,1,0,0,0,5418,14,914,Internet,30,Claim,0
+488,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,1,7369,11,833,Dealer,30,Claim,0
+489,North West,Madhya Pradesh,Rural,Bhopal,Personal,Entertainment,TV,0,0,0,0,2,1,1029,13,154,Dealer,30,Claim,0
+490,West,Maharashtra,Rural,Mumbai,Business,Household,AC,0,1,1,0,0,0,7000,14,961,Dealer,30,Claim,0
+491,South,Karnataka,Rural,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,5987,11,801,Internet,30,Other,0
+492,East,Bihar,Rural,Patna,Personal,Household,AC,0,2,1,0,0,0,4163,11,383,Dealer,20,Claim,0
+493,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,0,7528,10,968,Internet,30,Complaint,0
+494,West,Maharashtra,Rural,Mumbai,Business,Entertainment,TV,0,0,0,1,2,1,4216,11,626,Internet,30,Complaint,0
+495,South,Karnataka,Rural,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,5465,12,776,Internet,24,Claim,0
+496,South East,Andhra Pradesh,Rural,Hyderabad,Personal,Entertainment,TV,0,0,0,1,2,1,3149,14,820,Dealer,28,Claim,0
+497,South,Karnataka,Rural,Bangalore,Business,Household,AC,0,1,0,0,0,0,4431,11,27,Internet,30,Complaint,0
+498,West,Maharashtra,Rural,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,3998,11,497,Manufacturer,30,Claim,0
+499,West,Gujarat,Rural,Ahmedabad,Business,Entertainment,TV,0,0,0,1,1,0,3589,13,22,Manufacturer,30,Complaint,0
+500,East,West Bengal,Rural,Kolkata,Personal,Household,AC,0,2,1,0,0,0,1388,12,530,Manufacturer,30,Claim,0
+501,West,Maharashtra,Rural,Mumbai,Business,Household,AC,0,1,1,0,0,0,1003,15,576,Dealer,30,Claim,0
+502,South,Tamil Nadu,Rural,Chennai,Personal,Entertainment,TV,0,0,0,1,2,1,1691,13,746,Dealer,30,Other,0
+503,North West,Rajasthan,Rural,Jaipur,Personal,Household,AC,1,1,2,0,0,0,4674,12,727,Manufacturer,30,Complaint,0
+504,North West,Madhya Pradesh,Rural,Bhopal,Business,Entertainment,TV,0,0,0,0,1,0,3580,11,219,Dealer,30,Other,0
+505,West,Gujarat,Rural,Ahmedabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,11,408,Dealer,30,Claim,0
+506,South,Kerala,Rural,Kochi,Personal,Entertainment,TV,0,0,0,1,1,0,6732,13,873,Dealer,30,Complaint,1
+507,East,West Bengal,Rural,Kolkata,Personal,Entertainment,TV,0,0,0,1,1,1,6767,12,338,Internet,7,Other,0
+550,North,Haryana,Urban,Chandigarh,Personal,Household,AC,0,1,2,0,0,0,18000,14,10,Dealer,1.4,Claim,0
+551,South,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,0,12000,16,20,Manufacturer,2,Complaint,0
+553,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,2,1,0,12000,14,3,Internet,1.4,Complaint,0
+554,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,0
+555,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,13,5,Dealer,2.6,Claim,0
+556,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,0
+561,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Complaint,0
+563,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,0
+564,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1,Complaint,0
+565,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+568,North East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,15,15,Manufacturer,0.5,Claim,0
+570,South East,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,1,1,1,25000,12,3,Dealer,1.5,Complaint,0
+574,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,2,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+576,North East,Delhi,Urban,New Delhi,Personal,Household,AC,2,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+577,North West,Delhi,Urban,New Delhi,Personal,Household,AC,2,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+578,South East,Kerala,Urban,Kochi,Business,Household,AC,2,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,0
+579,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,2,0,10000,13,19,Dealer,1,Claim,0
+580,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,1
+582,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,1,1,1,25000,13,60,Dealer,1.3,Complaint,0
+583,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,12000,15,10,Internet,1.4,Complaint,0
+585,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Claim,0
+586,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,1,0,0,0,50000,12,6,Dealer,2.4,Claim,0
+589,West,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,0,0,12000,12,5,Internet,1,Complaint,0
+590,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Dealer,1.5,Complaint,0
+591,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,10000,15,7,Dealer,2.5,Claim,0
+592,North East,Bihar,Urban,Patna,Personal,Household,AC,0,0,0,0,0,0,50000,15,4,Manufacturer,1.3,Claim,0
+593,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Dealer,1.4,Claim,0
+595,South West,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,12000,13,9,Internet,2.6,Complaint,0
+598,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,2,50000,13,18,Manufacturer,0.5,Claim,0
+600,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,2,25000,15,10,Dealer,1.5,Complaint,0
+601,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,1,0,0,0,12000,14,12,Internet,2.5,Claim,0
+603,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+604,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,50000,10,3,Manufacturer,1.6,Claim,0
+605,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Dealer,2.6,Claim,0
+606,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,2,0,15000,10,60,Manufacturer,0.5,Complaint,0
+607,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,1
+611,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,1
+616,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,1,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+618,North East,Delhi,Urban,New Delhi,Personal,Household,AC,1,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+619,North West,Delhi,Urban,New Delhi,Personal,Household,AC,1,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+620,South East,Kerala,Urban,Kochi,Business,Household,AC,1,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,1
+621,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,0
+622,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,0,1,1,25000,13,60,Dealer,1.3,Claim,0
+624,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Other,0
+626,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,1,373,14,72,Dealer,30,Claim,0
+627,South,Kerala,Urban,Kochi,Business,Household,AC,0,2,1,0,0,0,2742,10,214,Manufacturer,30,Complaint,0
+628,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,1,2,1,5901,11,370,Dealer,30,Claim,0
+630,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,0,1,0,8386,12,197,Dealer,30,Claim,0
+634,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,0,7028,14,679,Manufacturer,30,Claim,1
+635,North,Jammu and Kashmir,Urban,Srinagar,Business,Entertainment,TV,0,0,0,1,1,1,5284,15,210,Dealer,30,Claim,0
+637,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,0,1,1,4000,15,363,Dealer,30,Other,0
+638,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,0,4805,12,948,Dealer,3,Claim,0
+639,North East,Assam,Urban,Guwhati,Personal,Entertainment,TV,0,0,0,1,2,0,3501,14,43,Dealer,30,Other,1
+640,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,7755,13,550,Dealer,30,Claim,0
+641,North West,Rajasthan,Urban,Jaipur,Business,Household,AC,1,1,2,0,0,0,6956,11,117,Manufacturer,6,Other,0
+642,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,1,2,0,0,0,6542,13,271,Dealer,4,Claim,0
+643,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,1,0,170,11,371,Dealer,30,Other,0
+644,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,6993,15,505,Manufacturer,7,Complaint,1
+648,South,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,1,1,1,4862,10,854,Dealer,30,Claim,0
+649,North,Uttar Pradesh,Urban,Meerut,Business,Entertainment,TV,0,0,0,0,2,0,1656,14,827,Internet,30,Claim,0
+650,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,1,0,0,0,0,4000,15,864,Manufacturer,30,Other,0
+651,East,Bihar,Urban,Patna,Personal,Entertainment,TV,0,0,0,2,1,0,2856,11,625,Internet,8,Other,0
+656,East,Jharkhand,Urban,Ranchi,Personal,Household,AC,0,1,2,0,0,0,4905,11,613,Manufacturer,30,Claim,0
+670,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,1,1,0,6586,13,35,Dealer,30,Claim,0
+678,East,West Bengal,Urban,Kolkata,Personal,Household,AC,0,1,0,0,0,0,4388,13,309,Manufacturer,30,Complaint,0
+683,North,Himachal Pradesh,Urban,Shimla,Personal,Household,AC,0,2,1,0,0,0,5584,11,111,Dealer,4,Other,0
+686,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,2961,12,547,Internet,30,Other,0
+691,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,7370,13,698,Manufacturer,30,Other,0
+692,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,1,0,8344,14,3,Internet,3,Complaint,0
+693,South,Kerala,Urban,Kochi,Personal,Household,AC,0,1,1,0,0,0,2538,12,73,Dealer,30,Claim,0
+703,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,10000,10,574,Manufacturer,30,Claim,0
+704,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,3651,11,388,Internet,30,Claim,1
+707,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,1,2,0,6405,11,790,Manufacturer,30,Complaint,0
+708,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,0,1,1,5618,14,289,Dealer,30,Claim,1
+711,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,2,1,501,10,409,Internet,30,Claim,0
+713,North,Delhi,Urban,Delhi,Business,Household,AC,1,2,0,0,0,0,7235,13,125,Dealer,30,Complaint,0
+717,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,609,Internet,5,Claim,0
+718,East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,1,2,1,5283,11,883,Dealer,12,Claim,0
+720,South West,Goa,Urban,Panaji,Personal,Household,AC,0,2,0,0,0,0,4832,14,481,Internet,30,Complaint,0
+722,North East,Tripura,Urban,Agartala,Personal,Household,AC,0,1,1,0,0,0,2515,10,748,Manufacturer,30,Other,0
+724,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,2,1,2538,14,353,Dealer,30,Complaint,0
+725,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,1,0,0,0,0,2000,15,187,Manufacturer,10,Complaint,0
+726,South,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,0,0,0,0,0,2000,15,52,Dealer,6,Complaint,0
+727,North West,Rajasthan,Urban,Jaipur,Personal,Household,AC,2,0,0,0,0,0,5000,11,118,Internet,23,Complaint,0
+728,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,9000,14,173,Manufacturer,7,Claim,0
+729,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,0,7000,14,43,Dealer,17,Claim,0
+730,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,0,5000,14,197,Internet,13,Complaint,0
+731,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,1,0,0,0,0,0,2000,14,304,Internet,20,Claim,1
+732,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,2,0,0,0,0,0,5000,14,167,Manufacturer,9,Complaint,0
+733,West,Maharashtra,Urban,Mumbai,Business,Household,AC,2,0,0,0,0,0,5000,14,49,Internet,22,Complaint,1
+734,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,1,7000,14,293,Manufacturer,13,Complaint,0
+735,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,0,0,0,0,0,0,0,14,332,Manufacturer,20,Complaint,1
+736,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,4000,14,331,Manufacturer,24,Complaint,0
+737,South,Karnataka,Urban,Bangalore,Business,Household,AC,1,0,0,0,0,0,2000,15,329,Dealer,14,Complaint,0
+738,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,0,1,0,2000,15,315,Internet,23,Complaint,0
+739,South,Karnataka,Urban,Bangalore,Business,Household,AC,2,0,0,0,0,0,5000,15,112,Dealer,15,Complaint,0
+740,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,2,0,0,5000,15,281,Manufacturer,4,Complaint,0
+741,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,0,0,0,0,0,2000,15,57,Internet,15,Complaint,0
+742,South,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,0,4000,15,61,Dealer,20,Complaint,0
+743,South,Karnataka,Urban,Bangalore,Personal,Household,AC,2,2,0,0,0,0,10000,15,349,Internet,21,Complaint,0
+744,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,244,Manufacturer,4,Complaint,0
+745,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,0,15,281,Internet,19,Complaint,0
+746,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,343,Internet,7,Complaint,0
+747,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,80,Manufacturer,12,Complaint,0
+748,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,323,Dealer,8,Complaint,0
+749,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,167,Internet,15,Complaint,0
+750,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,0,0,0,0,0,2000,15,147,Manufacturer,12,Complaint,0
+751,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,345,Internet,1,Complaint,0
+752,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,68,Dealer,10,Complaint,0
+753,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,68,Manufacturer,9,Complaint,0
+754,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,1,0,0,0,0,2000,15,218,Internet,16,Complaint,0
+755,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,2,0,0,0,0,10000,15,35,Internet,11,Claim,0
+756,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,0,0,0,0,0,5000,15,152,Dealer,18,Claim,0
+757,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,1,0,0,0,6000,15,280,Dealer,21,Complaint,0
+758,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,0,15,213,Manufacturer,2,Complaint,0
+759,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,254,Dealer,9,Claim,0
+760,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,39,Dealer,11,Claim,0
+761,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,36,Internet,5,Complaint,0
+762,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,233,Manufacturer,21,Claim,0
+763,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,2,0,0,0,0,7000,12,247,Internet,18,Complaint,0
+764,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,0,1,0,2000,12,30,Dealer,8,Claim,0
+765,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,350,Internet,18,Complaint,0
+766,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,205,Manufacturer,24,Complaint,0
+767,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,311,Dealer,4,Claim,0
+768,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,280,Internet,19,Claim,0
+769,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,1,0,0,0,0,4000,12,233,Dealer,6,Complaint,0
+770,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,1,4000,12,324,Manufacturer,19,Claim,0
+771,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,22,Dealer,23,Claim,0
+772,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,1,0,4000,12,282,Internet,15,Complaint,0
+773,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,1,0,0,0,0,4000,12,347,Internet,6,Claim,0
+774,South East,Orissa,Urban,Bhubaneswar,Business,Entertainment,TV,0,0,0,1,0,0,2000,12,274,Manufacturer,11,Claim,0
+775,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,2,0,0,0,0,7000,12,193,Dealer,7,Claim,0
+776,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,2,2,2,0,0,0,15000,12,197,Internet,4,Claim,0
+777,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,32,Manufacturer,14,Claim,0
+778,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,365,Internet,5,Complaint,0
+779,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,61,Dealer,24,Claim,0
+780,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,170,Manufacturer,19,Claim,0
+781,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,2,2,0,0,0,15000,15,303,Internet,7,Complaint,0
+782,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,330,Dealer,8,Claim,0
+783,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,79,Dealer,7,Claim,0
+784,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,1,4000,15,26,Manufacturer,23,Complaint,0
+785,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,0,0,0,0,0,5000,15,45,Internet,24,Claim,0
+786,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,287,Dealer,1,Claim,0
+787,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,1,0,0,0,0,0,2000,15,224,Manufacturer,23,Complaint,0
+788,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,275,Internet,21,Claim,0
+789,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,2,0,0,0,0,0,5000,15,315,Dealer,3,Claim,0
+790,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,301,Manufacturer,3,Complaint,0
+791,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,0,0,0,0,0,2000,15,356,Internet,13,Claim,0
+792,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,301,Dealer,18,Claim,0
+793,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,2,0,0,0,0,7000,15,333,Internet,24,Complaint,0
+794,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,103,Manufacturer,16,Claim,0
+795,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,288,Dealer,18,Claim,0
+796,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,125,Internet,1,Complaint,0
+797,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,148,Manufacturer,24,Claim,1
+798,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,291,Dealer,1,Claim,0
+799,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,180,Internet,22,Complaint,0
+800,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,1,1,0,4000,10,81,Internet,21,Claim,0
+801,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,46,Manufacturer,8,Claim,0
+802,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,147,Dealer,22,Complaint,0
+803,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,159,Dealer,3,Claim,0
+804,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,1,0,4000,10,287,Manufacturer,15,Claim,0
+805,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,271,Dealer,2,Complaint,0
+806,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,2,2,0,0,0,0,10000,10,206,Dealer,17,Claim,0
+807,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,300,Manufacturer,14,Complaint,0
+808,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,257,Internet,25,Claim,0
+809,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,1,0,0,0,0,4000,10,131,Dealer,1,Claim,0
+810,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,340,Manufacturer,10,Claim,0
+811,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,345,Dealer,2,Complaint,0
+812,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,276,Dealer,8,Claim,0
+813,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,171,Manufacturer,4,Claim,0
+814,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,299,Dealer,9,Complaint,0
+815,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,1,0,0,0,0,4000,10,335,Dealer,14,Claim,0
+816,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,21,Manufacturer,24,Claim,0
+817,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,55,Dealer,21,Claim,0
+818,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,212,Dealer,4,Complaint,0
+819,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,190,Manufacturer,6,Claim,0
+820,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,1,1,4000,10,275,Dealer,11,Claim,0
+821,North East,West Bengal,Urban,Kolkata,Business,Household,AC,1,2,0,0,0,0,7000,10,151,Dealer,19,Complaint,0
+822,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,0,1,1,4000,10,153,Internet,22,Claim,0
+823,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,160,Manufacturer,19,Claim,0
+824,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,15000,10,60,Manufacturer,0.5,Complaint,1
+826,East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,0,1,1,0,0,0,50000,13,12,Manufacturer,1.5,Claim,1
+827,North,Delhi,Urban,New Delhi,Personal,Household,AC,0,1,0,0,0,0,20000,15,15,Manufacturer,2.5,Claim,0
+829,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,12000,14,3,Internet,1.4,Complaint,0
+830,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,1
+833,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Claim,0
+834,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1.6,Complaint,0
+835,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+840,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,13,7,Manufacturer,1.6,Claim,1
+841,North East,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+842,North West,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+843,South East,Kerala,Urban,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,12,9,Manufacturer,0.5,Complaint,0
+844,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,50000,10,14,Manufacturer,1.5,Claim,0
+846,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,0,15,10,Internet,1.4,Complaint,0
+847,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,50000,12,6,Manufacturer,2.4,Claim,0
+849,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Manufacturer,1.5,Complaint,0
+850,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Manufacturer,1.4,Claim,0
+852,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,2,50000,13,18,Manufacturer,0.5,Complaint,1
+854,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,2,25000,15,10,Dealer,1.5,Claim,0
+855,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,0,0,0,0,12000,14,12,Internet,2.5,Claim,0
+857,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+858,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Manufacturer,2.6,Claim,0
+859,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,25000,13,5,Dealer,2.4,Claim,0
+864,South West,Maharashtra,Urban,Pune,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,16,Manufacturer,2.5,Other,1
+866,West,Bihar,Urban,Patna,Business,Household,AC,0,0,0,0,0,0,12000,12,19,Internet,1.4,Complaint,0
+867,East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,15000,13,14,Manufacturer,1.6,Claim,1
+868,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,1,1,1,10000,15,18,Dealer,2.6,Claim,0
+871,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,12,Dealer,0.5,Complaint,0
+873,South,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,6,Manufacturer,1.5,Claim,0
+877,North East,Maharashtra,Urban,Pune,Personal,Entertainment,TV,0,0,0,0,0,0,25000,15,18,Dealer,1.6,Complaint,0
+879,South East,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,12,4,Manufacturer,2.4,Other,0
+880,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,13,21,Dealer,6.5,Other,0
+881,South,Bihar,Urban,Purnea,Business,Household,AC,0,0,0,0,0,0,50000,10,16,Manufacturer,0.5,Complaint,0
+882,West,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,20000,12,9,Manufacturer,1,Claim,0
+883,East,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,0,0,0,0,0,25000,13,19,Dealer,1.5,Claim,0
+885,North East,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,1,1,0,0,0,15000,15,18,Manufacturer,1.3,Complaint,0
+886,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,10000,14,60,Dealer,1.4,Complaint,0
+888,South West,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,12,Manufacturer,2.6,Claim,0
+889,South,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,15,Dealer,2.4,Claim,0
+892,North,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,0,0,0,0,0,0,10000,15,4,Dealer,1,Other,0
+893,North East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,50000,15,5,Manufacturer,1.5,Other,0
+894,North West,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,20000,14,18,Manufacturer,2.5,Other,0
+895,South East,Gujarat,Urban,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,7,Dealer,1.3,Other,0
+896,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,12000,13,4,Internet,1.4,Other,0
+898,West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,12,16,Dealer,2.6,Other,0
+904,North,Haryana,Urban,Chandigarh,Personal,Household,AC,0,1,2,0,0,0,18000,14,10,Dealer,1.4,Claim,0
+905,South,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,0,12000,16,20,Manufacturer,2,Complaint,0
+907,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,2,1,0,12000,14,3,Internet,1.4,Complaint,0
+908,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,0
+909,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,13,5,Dealer,2.6,Claim,0
+910,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,0
+915,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Complaint,0
+917,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,0
+918,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1,Complaint,0
+919,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+922,North East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,15,15,Manufacturer,0.5,Claim,0
+924,South East,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,1,1,1,25000,12,3,Dealer,1.5,Complaint,0
+928,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,2,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+930,North East,Delhi,Urban,New Delhi,Personal,Household,AC,2,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+931,North West,Delhi,Urban,New Delhi,Personal,Household,AC,2,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+932,South East,Kerala,Urban,Kochi,Business,Household,AC,2,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,0
+933,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,2,0,10000,13,19,Dealer,1,Claim,0
+934,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,1
+936,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,1,1,1,25000,13,60,Dealer,1.3,Complaint,0
+937,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,12000,15,10,Internet,1.4,Complaint,0
+939,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Claim,0
+940,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,1,0,0,0,50000,12,6,Dealer,2.4,Claim,0
+943,West,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,0,0,12000,12,5,Internet,1,Complaint,0
+944,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Dealer,1.5,Complaint,0
+945,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,10000,15,7,Dealer,2.5,Claim,0
+946,North East,Bihar,Urban,Patna,Personal,Household,AC,0,0,0,0,0,0,50000,15,4,Manufacturer,1.3,Claim,0
+947,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Dealer,1.4,Claim,0
+949,South West,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,12000,13,9,Internet,2.6,Complaint,0
+952,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,2,50000,13,18,Manufacturer,0.5,Claim,0
+954,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,2,25000,15,10,Dealer,1.5,Complaint,0
+955,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,1,0,0,0,12000,14,12,Internet,2.5,Claim,0
+957,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+958,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,50000,10,3,Manufacturer,1.6,Claim,0
+959,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Dealer,2.6,Claim,0
+960,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,2,0,15000,10,60,Manufacturer,0.5,Complaint,0
+961,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,1
+965,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,1
+970,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,1,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+972,North East,Delhi,Urban,New Delhi,Personal,Household,AC,1,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+973,North West,Delhi,Urban,New Delhi,Personal,Household,AC,1,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+974,South East,Kerala,Urban,Kochi,Business,Household,AC,1,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,1
+975,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,0
+976,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,0,1,1,25000,13,60,Dealer,1.3,Claim,0
+978,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Other,0
+980,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,1,373,14,72,Dealer,30,Claim,0
+981,South,Kerala,Urban,Kochi,Business,Household,AC,0,2,1,0,0,0,2742,10,214,Manufacturer,30,Complaint,0
+982,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,1,2,1,5901,11,370,Dealer,30,Claim,0
+984,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,0,1,0,8386,12,197,Dealer,30,Claim,0
+988,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,0,7028,14,679,Manufacturer,30,Claim,1
+989,North,Jammu and Kashmir,Urban,Srinagar,Business,Entertainment,TV,0,0,0,1,1,1,5284,15,210,Dealer,30,Claim,0
+991,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,0,1,1,4000,15,363,Dealer,30,Other,0
+992,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,0,4805,12,948,Dealer,3,Claim,0
+993,North East,Assam,Urban,Guwhati,Personal,Entertainment,TV,0,0,0,1,2,0,3501,14,43,Dealer,30,Other,1
+994,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,7755,13,550,Dealer,30,Claim,0
+995,North West,Rajasthan,Urban,Jaipur,Business,Household,AC,1,1,2,0,0,0,6956,11,117,Manufacturer,6,Other,0
+996,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,1,2,0,0,0,6542,13,271,Dealer,4,Claim,0
+997,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,1,0,170,11,371,Dealer,30,Other,0
+998,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,6993,15,505,Manufacturer,7,Complaint,1
+1002,South,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,1,1,1,4862,10,854,Dealer,30,Claim,0
+1003,North,Uttar Pradesh,Urban,Meerut,Business,Entertainment,TV,0,0,0,0,2,0,1656,14,827,Internet,30,Claim,0
+1004,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,1,0,0,0,0,4000,15,864,Manufacturer,30,Other,0
+1005,East,Bihar,Urban,Patna,Personal,Entertainment,TV,0,0,0,2,1,0,2856,11,625,Internet,8,Other,0
+1010,East,Jharkhand,Urban,Ranchi,Personal,Household,AC,0,1,2,0,0,0,4905,11,613,Manufacturer,30,Claim,0
+1024,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,1,1,0,6586,13,35,Dealer,30,Claim,0
+1032,East,West Bengal,Urban,Kolkata,Personal,Household,AC,0,1,0,0,0,0,4388,13,309,Manufacturer,30,Complaint,0
+1037,North,Himachal Pradesh,Urban,Shimla,Personal,Household,AC,0,2,1,0,0,0,5584,11,111,Dealer,4,Other,0
+1040,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,2961,12,547,Internet,30,Other,0
+1045,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,7370,13,698,Manufacturer,30,Other,0
+1046,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,1,0,8344,14,3,Internet,3,Complaint,0
+1047,South,Kerala,Urban,Kochi,Personal,Household,AC,0,1,1,0,0,0,2538,12,73,Dealer,30,Claim,0
+1057,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,10000,10,574,Manufacturer,30,Claim,0
+1058,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,3651,11,388,Internet,30,Claim,1
+1061,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,1,2,0,6405,11,790,Manufacturer,30,Complaint,0
+1062,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,0,1,1,5618,14,289,Dealer,30,Claim,1
+1065,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,2,1,501,10,409,Internet,30,Claim,0
+1067,North,Delhi,Urban,Delhi,Business,Household,AC,1,2,0,0,0,0,7235,13,125,Dealer,30,Complaint,0
+1071,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,609,Internet,5,Claim,0
+1072,East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,1,2,1,5283,11,883,Dealer,12,Claim,0
+1074,South West,Goa,Urban,Panaji,Personal,Household,AC,0,2,0,0,0,0,4832,14,481,Internet,30,Complaint,0
+1076,North East,Tripura,Urban,Agartala,Personal,Household,AC,0,1,1,0,0,0,2515,10,748,Manufacturer,30,Other,0
+1078,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,2,1,2538,14,353,Dealer,30,Complaint,0
+1079,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,1,0,0,0,0,2000,15,187,Manufacturer,10,Complaint,0
+1080,South,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,0,0,0,0,0,2000,15,52,Dealer,6,Complaint,0
+1081,North West,Rajasthan,Urban,Jaipur,Personal,Household,AC,2,0,0,0,0,0,5000,11,118,Internet,23,Complaint,0
+1082,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,9000,14,173,Manufacturer,7,Claim,0
+1083,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,0,7000,14,43,Dealer,17,Claim,0
+1084,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,0,5000,14,197,Internet,13,Complaint,0
+1085,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,1,0,0,0,0,0,2000,14,304,Internet,20,Claim,1
+1086,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,2,0,0,0,0,0,5000,14,167,Manufacturer,9,Complaint,0
+1087,West,Maharashtra,Urban,Mumbai,Business,Household,AC,2,0,0,0,0,0,5000,14,49,Internet,22,Complaint,1
+1088,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,1,7000,14,293,Manufacturer,13,Complaint,0
+1089,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,0,0,0,0,0,0,0,14,332,Manufacturer,20,Complaint,1
+1090,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,4000,14,331,Manufacturer,24,Complaint,0
+1091,South,Karnataka,Urban,Bangalore,Business,Household,AC,1,0,0,0,0,0,2000,15,329,Dealer,14,Complaint,0
+1092,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,0,1,0,2000,15,315,Internet,23,Complaint,0
+1093,South,Karnataka,Urban,Bangalore,Business,Household,AC,2,0,0,0,0,0,5000,15,112,Dealer,15,Complaint,0
+1094,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,2,0,0,5000,15,281,Manufacturer,4,Complaint,0
+1095,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,0,0,0,0,0,2000,15,57,Internet,15,Complaint,0
+1096,South,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,0,4000,15,61,Dealer,20,Complaint,0
+1097,South,Karnataka,Urban,Bangalore,Personal,Household,AC,2,2,0,0,0,0,10000,15,349,Internet,21,Complaint,0
+1098,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,244,Manufacturer,4,Complaint,0
+1099,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,0,15,281,Internet,19,Complaint,0
+1100,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,343,Internet,7,Complaint,0
+1101,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,80,Manufacturer,12,Complaint,0
+1102,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,323,Dealer,8,Complaint,0
+1103,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,167,Internet,15,Complaint,0
+1104,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,0,0,0,0,0,2000,15,147,Manufacturer,12,Complaint,0
+1105,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,345,Internet,1,Complaint,0
+1106,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,68,Dealer,10,Complaint,0
+1107,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,68,Manufacturer,9,Complaint,0
+1108,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,1,0,0,0,0,2000,15,218,Internet,16,Complaint,0
+1109,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,2,0,0,0,0,10000,15,35,Internet,11,Claim,0
+1110,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,0,0,0,0,0,5000,15,152,Dealer,18,Claim,0
+1111,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,1,0,0,0,6000,15,280,Dealer,21,Complaint,0
+1112,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,0,15,213,Manufacturer,2,Complaint,0
+1113,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,254,Dealer,9,Claim,0
+1114,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,39,Dealer,11,Claim,0
+1115,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,36,Internet,5,Complaint,0
+1116,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,233,Manufacturer,21,Claim,0
+1117,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,2,0,0,0,0,7000,12,247,Internet,18,Complaint,0
+1118,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,0,1,0,2000,12,30,Dealer,8,Claim,0
+1119,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,350,Internet,18,Complaint,0
+1120,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,205,Manufacturer,24,Complaint,0
+1121,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,311,Dealer,4,Claim,0
+1122,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,280,Internet,19,Claim,0
+1123,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,1,0,0,0,0,4000,12,233,Dealer,6,Complaint,0
+1124,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,1,4000,12,324,Manufacturer,19,Claim,0
+1125,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,22,Dealer,23,Claim,0
+1126,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,1,0,4000,12,282,Internet,15,Complaint,0
+1127,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,1,0,0,0,0,4000,12,347,Internet,6,Claim,0
+1128,South East,Orissa,Urban,Bhubaneswar,Business,Entertainment,TV,0,0,0,1,0,0,2000,12,274,Manufacturer,11,Claim,0
+1129,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,2,0,0,0,0,7000,12,193,Dealer,7,Claim,0
+1130,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,2,2,2,0,0,0,15000,12,197,Internet,4,Claim,0
+1131,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,32,Manufacturer,14,Claim,0
+1132,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,365,Internet,5,Complaint,0
+1133,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,61,Dealer,24,Claim,0
+1134,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,170,Manufacturer,19,Claim,0
+1135,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,2,2,0,0,0,15000,15,303,Internet,7,Complaint,0
+1136,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,330,Dealer,8,Claim,0
+1137,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,79,Dealer,7,Claim,0
+1138,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,1,4000,15,26,Manufacturer,23,Complaint,0
+1139,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,0,0,0,0,0,5000,15,45,Internet,24,Claim,0
+1140,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,287,Dealer,1,Claim,0
+1141,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,1,0,0,0,0,0,2000,15,224,Manufacturer,23,Complaint,0
+1142,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,275,Internet,21,Claim,0
+1143,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,2,0,0,0,0,0,5000,15,315,Dealer,3,Claim,0
+1144,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,301,Manufacturer,3,Complaint,0
+1145,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,0,0,0,0,0,2000,15,356,Internet,13,Claim,0
+1146,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,301,Dealer,18,Claim,0
+1147,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,2,0,0,0,0,7000,15,333,Internet,24,Complaint,0
+1148,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,103,Manufacturer,16,Claim,0
+1149,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,288,Dealer,18,Claim,0
+1150,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,125,Internet,1,Complaint,0
+1151,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,148,Manufacturer,24,Claim,1
+1152,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,291,Dealer,1,Claim,0
+1153,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,180,Internet,22,Complaint,0
+1154,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,1,1,0,4000,10,81,Internet,21,Claim,0
+1155,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,46,Manufacturer,8,Claim,0
+1156,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,147,Dealer,22,Complaint,0
+1157,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,159,Dealer,3,Claim,0
+1158,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,1,0,4000,10,287,Manufacturer,15,Claim,0
+1159,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,271,Dealer,2,Complaint,0
+1160,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,2,2,0,0,0,0,10000,10,206,Dealer,17,Claim,0
+1161,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,300,Manufacturer,14,Complaint,0
+1162,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,257,Internet,25,Claim,0
+1163,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,1,0,0,0,0,4000,10,131,Dealer,1,Claim,0
+1164,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,340,Manufacturer,10,Claim,0
+1165,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,345,Dealer,2,Complaint,0
+1166,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,276,Dealer,8,Claim,0
+1167,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,171,Manufacturer,4,Claim,0
+1168,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,299,Dealer,9,Complaint,0
+1169,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,1,0,0,0,0,4000,10,335,Dealer,14,Claim,0
+1170,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,21,Manufacturer,24,Claim,0
+1171,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,55,Dealer,21,Claim,0
+1172,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,212,Dealer,4,Complaint,0
+1173,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,190,Manufacturer,6,Claim,0
+1174,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,1,1,4000,10,275,Dealer,11,Claim,0
+1175,North East,West Bengal,Urban,Kolkata,Business,Household,AC,1,2,0,0,0,0,7000,10,151,Dealer,19,Complaint,0
+1176,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,0,1,1,4000,10,153,Internet,22,Claim,0
+1177,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,160,Manufacturer,19,Claim,0
+1178,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,15000,10,60,Manufacturer,0.5,Complaint,1
+1180,East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,0,1,1,0,0,0,50000,13,12,Manufacturer,1.5,Claim,1
+1181,North,Delhi,Urban,New Delhi,Personal,Household,AC,0,1,0,0,0,0,20000,15,15,Manufacturer,2.5,Claim,0
+1183,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,12000,14,3,Internet,1.4,Complaint,0
+1184,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,1
+1187,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Claim,0
+1188,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1.6,Complaint,0
+1189,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+1194,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,13,7,Manufacturer,1.6,Claim,1
+1195,North East,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1196,North West,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1197,South East,Kerala,Urban,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,12,9,Manufacturer,0.5,Complaint,0
+1198,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,50000,10,14,Manufacturer,1.5,Claim,0
+1200,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,0,15,10,Internet,1.4,Complaint,0
+1201,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,50000,12,6,Manufacturer,2.4,Claim,0
+1203,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Manufacturer,1.5,Complaint,0
+1204,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Manufacturer,1.4,Claim,0
+1206,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,2,50000,13,18,Manufacturer,0.5,Complaint,1
+1208,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,2,25000,15,10,Dealer,1.5,Claim,0
+1209,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,0,0,0,0,12000,14,12,Internet,2.5,Claim,0
+1211,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+1212,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Manufacturer,2.6,Claim,0
+1213,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,25000,13,5,Dealer,2.4,Claim,0
+1218,South West,Maharashtra,Urban,Pune,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,16,Manufacturer,2.5,Other,1
+1220,West,Bihar,Urban,Patna,Business,Household,AC,0,0,0,0,0,0,12000,12,19,Internet,1.4,Complaint,0
+1221,East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,15000,13,14,Manufacturer,1.6,Claim,1
+1222,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,1,1,1,10000,15,18,Dealer,2.6,Claim,0
+1225,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,12,Dealer,0.5,Complaint,0
+1227,South,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,6,Manufacturer,1.5,Claim,0
+1231,North East,Maharashtra,Urban,Pune,Personal,Entertainment,TV,0,0,0,0,0,0,25000,15,18,Dealer,1.6,Complaint,0
+1233,South East,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,12,4,Manufacturer,2.4,Other,0
+1234,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,13,21,Dealer,6.5,Other,0
+1235,South,Bihar,Urban,Purnea,Business,Household,AC,0,0,0,0,0,0,50000,10,16,Manufacturer,0.5,Complaint,0
+1236,West,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,20000,12,9,Manufacturer,1,Claim,0
+1237,East,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,0,0,0,0,0,25000,13,19,Dealer,1.5,Claim,0
+1239,North East,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,1,1,0,0,0,15000,15,18,Manufacturer,1.3,Complaint,0
+1240,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,10000,14,60,Dealer,1.4,Complaint,0
+1242,South West,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,12,Manufacturer,2.6,Claim,0
+1243,South,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,15,Dealer,2.4,Claim,0
+1246,North,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,0,0,0,0,0,0,10000,15,4,Dealer,1,Other,0
+1247,North East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,50000,15,5,Manufacturer,1.5,Other,0
+1248,North West,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,20000,14,18,Manufacturer,2.5,Other,0
+1249,South East,Gujarat,Urban,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,7,Dealer,1.3,Other,0
+1250,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,12000,13,4,Internet,1.4,Other,0
+1252,West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,12,16,Dealer,2.6,Other,0
+1258,North,Haryana,Urban,Chandigarh,Personal,Household,AC,0,1,2,0,0,0,18000,14,10,Dealer,1.4,Claim,0
+1259,South,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,0,12000,16,20,Manufacturer,2,Complaint,0
+1261,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,2,1,0,12000,14,3,Internet,1.4,Complaint,0
+1262,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,0
+1263,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,13,5,Dealer,2.6,Claim,0
+1264,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,0
+1269,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Complaint,0
+1271,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,0
+1272,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1,Complaint,0
+1273,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+1276,North East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,15,15,Manufacturer,0.5,Claim,0
+1278,South East,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,1,1,1,25000,12,3,Dealer,1.5,Complaint,0
+1282,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,2,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+1284,North East,Delhi,Urban,New Delhi,Personal,Household,AC,2,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1285,North West,Delhi,Urban,New Delhi,Personal,Household,AC,2,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1286,South East,Kerala,Urban,Kochi,Business,Household,AC,2,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,0
+1287,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,2,0,10000,13,19,Dealer,1,Claim,0
+1288,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,1
+1290,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,1,1,1,25000,13,60,Dealer,1.3,Complaint,0
+1291,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,12000,15,10,Internet,1.4,Complaint,0
+1293,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Claim,0
+1294,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,1,0,0,0,50000,12,6,Dealer,2.4,Claim,0
+1297,West,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,0,0,12000,12,5,Internet,1,Complaint,0
+1298,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Dealer,1.5,Complaint,0
+1299,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,10000,15,7,Dealer,2.5,Claim,0
+1300,North East,Bihar,Urban,Patna,Personal,Household,AC,0,0,0,0,0,0,50000,15,4,Manufacturer,1.3,Claim,0
+1301,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Dealer,1.4,Claim,0
+1303,South West,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,12000,13,9,Internet,2.6,Complaint,0
+1306,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,2,50000,13,18,Manufacturer,0.5,Claim,0
+1308,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,2,25000,15,10,Dealer,1.5,Complaint,0
+1309,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,1,0,0,0,12000,14,12,Internet,2.5,Claim,0
+1311,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+1312,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,50000,10,3,Manufacturer,1.6,Claim,0
+1313,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Dealer,2.6,Claim,0
+1314,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,2,0,15000,10,60,Manufacturer,0.5,Complaint,0
+1315,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,1
+1319,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,1
+1324,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,1,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+1326,North East,Delhi,Urban,New Delhi,Personal,Household,AC,1,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1327,North West,Delhi,Urban,New Delhi,Personal,Household,AC,1,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1328,South East,Kerala,Urban,Kochi,Business,Household,AC,1,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,1
+1329,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,0
+1330,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,0,1,1,25000,13,60,Dealer,1.3,Claim,0
+1332,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Other,0
+1334,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,1,373,14,72,Dealer,30,Claim,0
+1335,South,Kerala,Urban,Kochi,Business,Household,AC,0,2,1,0,0,0,2742,10,214,Manufacturer,30,Complaint,0
+1336,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,1,2,1,5901,11,370,Dealer,30,Claim,0
+1338,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,0,1,0,8386,12,197,Dealer,30,Claim,0
+1342,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,0,7028,14,679,Manufacturer,30,Claim,1
+1343,North,Jammu and Kashmir,Urban,Srinagar,Business,Entertainment,TV,0,0,0,1,1,1,5284,15,210,Dealer,30,Claim,0
+1345,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,0,1,1,4000,15,363,Dealer,30,Other,0
+1346,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,0,4805,12,948,Dealer,3,Claim,0
+1347,North East,Assam,Urban,Guwhati,Personal,Entertainment,TV,0,0,0,1,2,0,3501,14,43,Dealer,30,Other,1
+1348,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,7755,13,550,Dealer,30,Claim,0
+1349,North West,Rajasthan,Urban,Jaipur,Business,Household,AC,1,1,2,0,0,0,6956,11,117,Manufacturer,6,Other,0
+1350,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,1,2,0,0,0,6542,13,271,Dealer,4,Claim,0
+1351,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,1,0,170,11,371,Dealer,30,Other,0
+1352,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,6993,15,505,Manufacturer,7,Complaint,1
+1356,South,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,1,1,1,4862,10,854,Dealer,30,Claim,0
+1357,North,Uttar Pradesh,Urban,Meerut,Business,Entertainment,TV,0,0,0,0,2,0,1656,14,827,Internet,30,Claim,0
+1358,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,1,0,0,0,0,4000,15,864,Manufacturer,30,Other,0
+1359,East,Bihar,Urban,Patna,Personal,Entertainment,TV,0,0,0,2,1,0,2856,11,625,Internet,8,Other,0
+1364,East,Jharkhand,Urban,Ranchi,Personal,Household,AC,0,1,2,0,0,0,4905,11,613,Manufacturer,30,Claim,0
+1378,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,1,1,0,6586,13,35,Dealer,30,Claim,0
+1386,East,West Bengal,Urban,Kolkata,Personal,Household,AC,0,1,0,0,0,0,4388,13,309,Manufacturer,30,Complaint,0
+1391,North,Himachal Pradesh,Urban,Shimla,Personal,Household,AC,0,2,1,0,0,0,5584,11,111,Dealer,4,Other,0
+1394,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,2961,12,547,Internet,30,Other,0
+1399,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,7370,13,698,Manufacturer,30,Other,0
+1400,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,1,0,8344,14,3,Internet,3,Complaint,0
+1401,South,Kerala,Urban,Kochi,Personal,Household,AC,0,1,1,0,0,0,2538,12,73,Dealer,30,Claim,0
+1411,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,10000,10,574,Manufacturer,30,Claim,0
+1412,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,3651,11,388,Internet,30,Claim,1
+1415,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,1,2,0,6405,11,790,Manufacturer,30,Complaint,0
+1416,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,0,1,1,5618,14,289,Dealer,30,Claim,1
+1419,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,2,1,501,10,409,Internet,30,Claim,0
+1421,North,Delhi,Urban,Delhi,Business,Household,AC,1,2,0,0,0,0,7235,13,125,Dealer,30,Complaint,0
+1425,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,609,Internet,5,Claim,0
+1426,East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,1,2,1,5283,11,883,Dealer,12,Claim,0
+1428,South West,Goa,Urban,Panaji,Personal,Household,AC,0,2,0,0,0,0,4832,14,481,Internet,30,Complaint,0
+1430,North East,Tripura,Urban,Agartala,Personal,Household,AC,0,1,1,0,0,0,2515,10,748,Manufacturer,30,Other,0
+1432,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,2,1,2538,14,353,Dealer,30,Complaint,0
+1433,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,1,0,0,0,0,2000,15,187,Manufacturer,10,Complaint,0
+1434,South,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,0,0,0,0,0,2000,15,52,Dealer,6,Complaint,0
+1435,North West,Rajasthan,Urban,Jaipur,Personal,Household,AC,2,0,0,0,0,0,5000,11,118,Internet,23,Complaint,0
+1436,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,9000,14,173,Manufacturer,7,Claim,0
+1437,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,0,7000,14,43,Dealer,17,Claim,0
+1438,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,0,5000,14,197,Internet,13,Complaint,0
+1439,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,1,0,0,0,0,0,2000,14,304,Internet,20,Claim,1
+1440,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,2,0,0,0,0,0,5000,14,167,Manufacturer,9,Complaint,0
+1441,West,Maharashtra,Urban,Mumbai,Business,Household,AC,2,0,0,0,0,0,5000,14,49,Internet,22,Complaint,1
+1442,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,1,7000,14,293,Manufacturer,13,Complaint,0
+1443,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,0,0,0,0,0,0,0,14,332,Manufacturer,20,Complaint,1
+1444,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,4000,14,331,Manufacturer,24,Complaint,0
+1445,South,Karnataka,Urban,Bangalore,Business,Household,AC,1,0,0,0,0,0,2000,15,329,Dealer,14,Complaint,0
+1446,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,0,1,0,2000,15,315,Internet,23,Complaint,0
+1447,South,Karnataka,Urban,Bangalore,Business,Household,AC,2,0,0,0,0,0,5000,15,112,Dealer,15,Complaint,0
+1448,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,2,0,0,5000,15,281,Manufacturer,4,Complaint,0
+1449,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,0,0,0,0,0,2000,15,57,Internet,15,Complaint,0
+1450,South,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,0,4000,15,61,Dealer,20,Complaint,0
+1451,South,Karnataka,Urban,Bangalore,Personal,Household,AC,2,2,0,0,0,0,10000,15,349,Internet,21,Complaint,0
+1452,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,244,Manufacturer,4,Complaint,0
+1453,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,0,15,281,Internet,19,Complaint,0
+1454,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,343,Internet,7,Complaint,0
+1455,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,80,Manufacturer,12,Complaint,0
+1456,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,323,Dealer,8,Complaint,0
+1457,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,167,Internet,15,Complaint,0
+1458,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,0,0,0,0,0,2000,15,147,Manufacturer,12,Complaint,0
+1459,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,345,Internet,1,Complaint,0
+1460,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,68,Dealer,10,Complaint,0
+1461,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,68,Manufacturer,9,Complaint,0
+1462,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,1,0,0,0,0,2000,15,218,Internet,16,Complaint,0
+1463,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,2,0,0,0,0,10000,15,35,Internet,11,Claim,0
+1464,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,0,0,0,0,0,5000,15,152,Dealer,18,Claim,0
+1465,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,1,0,0,0,6000,15,280,Dealer,21,Complaint,0
+1466,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,0,15,213,Manufacturer,2,Complaint,0
+1467,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,254,Dealer,9,Claim,0
+1468,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,39,Dealer,11,Claim,0
+1469,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,36,Internet,5,Complaint,0
+1470,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,233,Manufacturer,21,Claim,0
+1471,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,2,0,0,0,0,7000,12,247,Internet,18,Complaint,0
+1472,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,0,1,0,2000,12,30,Dealer,8,Claim,0
+1473,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,350,Internet,18,Complaint,0
+1474,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,205,Manufacturer,24,Complaint,0
+1475,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,311,Dealer,4,Claim,0
+1476,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,280,Internet,19,Claim,0
+1477,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,1,0,0,0,0,4000,12,233,Dealer,6,Complaint,0
+1478,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,1,4000,12,324,Manufacturer,19,Claim,0
+1479,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,22,Dealer,23,Claim,0
+1480,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,1,0,4000,12,282,Internet,15,Complaint,0
+1481,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,1,0,0,0,0,4000,12,347,Internet,6,Claim,0
+1482,South East,Orissa,Urban,Bhubaneswar,Business,Entertainment,TV,0,0,0,1,0,0,2000,12,274,Manufacturer,11,Claim,0
+1483,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,2,0,0,0,0,7000,12,193,Dealer,7,Claim,0
+1484,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,2,2,2,0,0,0,15000,12,197,Internet,4,Claim,0
+1485,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,32,Manufacturer,14,Claim,0
+1486,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,365,Internet,5,Complaint,0
+1487,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,61,Dealer,24,Claim,0
+1488,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,170,Manufacturer,19,Claim,0
+1489,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,2,2,0,0,0,15000,15,303,Internet,7,Complaint,0
+1490,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,330,Dealer,8,Claim,0
+1491,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,79,Dealer,7,Claim,0
+1492,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,1,4000,15,26,Manufacturer,23,Complaint,0
+1493,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,0,0,0,0,0,5000,15,45,Internet,24,Claim,0
+1494,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,287,Dealer,1,Claim,0
+1495,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,1,0,0,0,0,0,2000,15,224,Manufacturer,23,Complaint,0
+1496,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,275,Internet,21,Claim,0
+1497,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,2,0,0,0,0,0,5000,15,315,Dealer,3,Claim,0
+1498,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,301,Manufacturer,3,Complaint,0
+1499,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,0,0,0,0,0,2000,15,356,Internet,13,Claim,0
+1500,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,301,Dealer,18,Claim,0
+1501,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,2,0,0,0,0,7000,15,333,Internet,24,Complaint,0
+1502,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,103,Manufacturer,16,Claim,0
+1503,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,288,Dealer,18,Claim,0
+1504,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,125,Internet,1,Complaint,0
+1505,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,148,Manufacturer,24,Claim,1
+1506,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,291,Dealer,1,Claim,0
+1507,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,180,Internet,22,Complaint,0
+1508,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,1,1,0,4000,10,81,Internet,21,Claim,0
+1509,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,46,Manufacturer,8,Claim,0
+1510,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,147,Dealer,22,Complaint,0
+1511,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,159,Dealer,3,Claim,0
+1512,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,1,0,4000,10,287,Manufacturer,15,Claim,0
+1513,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,271,Dealer,2,Complaint,0
+1514,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,2,2,0,0,0,0,10000,10,206,Dealer,17,Claim,0
+1515,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,300,Manufacturer,14,Complaint,0
+1516,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,257,Internet,25,Claim,0
+1517,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,1,0,0,0,0,4000,10,131,Dealer,1,Claim,0
+1518,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,340,Manufacturer,10,Claim,0
+1519,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,345,Dealer,2,Complaint,0
+1520,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,276,Dealer,8,Claim,0
+1521,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,171,Manufacturer,4,Claim,0
+1522,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,299,Dealer,9,Complaint,0
+1523,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,1,0,0,0,0,4000,10,335,Dealer,14,Claim,0
+1524,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,21,Manufacturer,24,Claim,0
+1525,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,55,Dealer,21,Claim,0
+1526,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,212,Dealer,4,Complaint,0
+1527,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,190,Manufacturer,6,Claim,0
+1528,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,1,1,4000,10,275,Dealer,11,Claim,0
+1529,North East,West Bengal,Urban,Kolkata,Business,Household,AC,1,2,0,0,0,0,7000,10,151,Dealer,19,Complaint,0
+1530,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,0,1,1,4000,10,153,Internet,22,Claim,0
+1531,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,160,Manufacturer,19,Claim,0
+1532,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,15000,10,60,Manufacturer,0.5,Complaint,1
+1534,East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,0,1,1,0,0,0,50000,13,12,Manufacturer,1.5,Claim,1
+1535,North,Delhi,Urban,New Delhi,Personal,Household,AC,0,1,0,0,0,0,20000,15,15,Manufacturer,2.5,Claim,0
+1537,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,12000,14,3,Internet,1.4,Complaint,0
+1538,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,1
+1541,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Claim,0
+1542,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1.6,Complaint,0
+1543,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+1548,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,13,7,Manufacturer,1.6,Claim,1
+1549,North East,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1550,North West,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1551,South East,Kerala,Urban,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,12,9,Manufacturer,0.5,Complaint,0
+1552,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,50000,10,14,Manufacturer,1.5,Claim,0
+1554,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,0,15,10,Internet,1.4,Complaint,0
+1555,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,50000,12,6,Manufacturer,2.4,Claim,0
+1557,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Manufacturer,1.5,Complaint,0
+1558,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Manufacturer,1.4,Claim,0
+1560,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,2,50000,13,18,Manufacturer,0.5,Complaint,1
+1562,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,2,25000,15,10,Dealer,1.5,Claim,0
+1563,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,0,0,0,0,12000,14,12,Internet,2.5,Claim,0
+1565,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+1566,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Manufacturer,2.6,Claim,0
+1567,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,25000,13,5,Dealer,2.4,Claim,0
+1572,South West,Maharashtra,Urban,Pune,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,16,Manufacturer,2.5,Other,1
+1574,West,Bihar,Urban,Patna,Business,Household,AC,0,0,0,0,0,0,12000,12,19,Internet,1.4,Complaint,0
+1575,East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,15000,13,14,Manufacturer,1.6,Claim,1
+1576,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,1,1,1,10000,15,18,Dealer,2.6,Claim,0
+1579,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,12,Dealer,0.5,Complaint,0
+1581,South,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,6,Manufacturer,1.5,Claim,0
+1585,North East,Maharashtra,Urban,Pune,Personal,Entertainment,TV,0,0,0,0,0,0,25000,15,18,Dealer,1.6,Complaint,0
+1587,South East,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,12,4,Manufacturer,2.4,Other,0
+1588,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,13,21,Dealer,6.5,Other,0
+1589,South,Bihar,Urban,Purnea,Business,Household,AC,0,0,0,0,0,0,50000,10,16,Manufacturer,0.5,Complaint,0
+1590,West,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,20000,12,9,Manufacturer,1,Claim,0
+1591,East,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,0,0,0,0,0,25000,13,19,Dealer,1.5,Claim,0
+1593,North East,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,1,1,0,0,0,15000,15,18,Manufacturer,1.3,Complaint,0
+1594,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,10000,14,60,Dealer,1.4,Complaint,0
+1596,South West,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,12,Manufacturer,2.6,Claim,0
+1597,South,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,15,Dealer,2.4,Claim,0
+1600,North,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,0,0,0,0,0,0,10000,15,4,Dealer,1,Other,0
+1601,North East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,50000,15,5,Manufacturer,1.5,Other,0
+1602,North West,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,20000,14,18,Manufacturer,2.5,Other,0
+1603,South East,Gujarat,Urban,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,7,Dealer,1.3,Other,0
+1604,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,12000,13,4,Internet,1.4,Other,0
+1606,West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,12,16,Dealer,2.6,Other,0
+1612,North,Haryana,Urban,Chandigarh,Personal,Household,AC,0,1,2,0,0,0,18000,14,10,Dealer,1.4,Claim,0
+1613,South,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,0,12000,16,20,Manufacturer,2,Complaint,0
+1615,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,2,1,0,12000,14,3,Internet,1.4,Complaint,0
+1616,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,0
+1617,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,13,5,Dealer,2.6,Claim,0
+1618,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,0
+1623,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Complaint,0
+1625,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,0
+1626,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1,Complaint,0
+1627,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+1630,North East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,15,15,Manufacturer,0.5,Claim,0
+1632,South East,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,1,1,1,25000,12,3,Dealer,1.5,Complaint,0
+1636,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,2,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+1638,North East,Delhi,Urban,New Delhi,Personal,Household,AC,2,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1639,North West,Delhi,Urban,New Delhi,Personal,Household,AC,2,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1640,South East,Kerala,Urban,Kochi,Business,Household,AC,2,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,0
+1641,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,2,0,10000,13,19,Dealer,1,Claim,0
+1642,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,1
+1644,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,1,1,1,25000,13,60,Dealer,1.3,Complaint,0
+1645,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,12000,15,10,Internet,1.4,Complaint,0
+1647,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Claim,0
+1648,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,1,0,0,0,50000,12,6,Dealer,2.4,Claim,0
+1651,West,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,0,0,12000,12,5,Internet,1,Complaint,0
+1652,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Dealer,1.5,Complaint,0
+1653,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,10000,15,7,Dealer,2.5,Claim,0
+1654,North East,Bihar,Urban,Patna,Personal,Household,AC,0,0,0,0,0,0,50000,15,4,Manufacturer,1.3,Claim,0
+1655,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Dealer,1.4,Claim,0
+1657,South West,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,12000,13,9,Internet,2.6,Complaint,0
+1660,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,2,50000,13,18,Manufacturer,0.5,Claim,0
+1662,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,2,25000,15,10,Dealer,1.5,Complaint,0
+1663,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,1,0,0,0,12000,14,12,Internet,2.5,Claim,0
+1665,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+1666,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,50000,10,3,Manufacturer,1.6,Claim,0
+1667,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Dealer,2.6,Claim,0
+1668,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,2,0,15000,10,60,Manufacturer,0.5,Complaint,0
+1669,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,1
+1673,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,1
+1678,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,1,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+1680,North East,Delhi,Urban,New Delhi,Personal,Household,AC,1,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1681,North West,Delhi,Urban,New Delhi,Personal,Household,AC,1,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1682,South East,Kerala,Urban,Kochi,Business,Household,AC,1,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,1
+1683,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,0
+1684,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,0,1,1,25000,13,60,Dealer,1.3,Claim,0
+1686,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Other,0
+1688,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,1,373,14,72,Dealer,30,Claim,0
+1689,South,Kerala,Urban,Kochi,Business,Household,AC,0,2,1,0,0,0,2742,10,214,Manufacturer,30,Complaint,0
+1690,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,1,2,1,5901,11,370,Dealer,30,Claim,0
+1692,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,0,1,0,8386,12,197,Dealer,30,Claim,0
+1696,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,0,7028,14,679,Manufacturer,30,Claim,1
+1697,North,Jammu and Kashmir,Urban,Srinagar,Business,Entertainment,TV,0,0,0,1,1,1,5284,15,210,Dealer,30,Claim,0
+1699,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,0,1,1,4000,15,363,Dealer,30,Other,0
+1700,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,0,4805,12,948,Dealer,3,Claim,0
+1701,North East,Assam,Urban,Guwhati,Personal,Entertainment,TV,0,0,0,1,2,0,3501,14,43,Dealer,30,Other,1
+1702,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,7755,13,550,Dealer,30,Claim,0
+1703,North West,Rajasthan,Urban,Jaipur,Business,Household,AC,1,1,2,0,0,0,6956,11,117,Manufacturer,6,Other,0
+1704,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,1,2,0,0,0,6542,13,271,Dealer,4,Claim,0
+1705,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,1,0,170,11,371,Dealer,30,Other,0
+1706,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,6993,15,505,Manufacturer,7,Complaint,1
+1710,South,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,1,1,1,4862,10,854,Dealer,30,Claim,0
+1711,North,Uttar Pradesh,Urban,Meerut,Business,Entertainment,TV,0,0,0,0,2,0,1656,14,827,Internet,30,Claim,0
+1712,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,1,0,0,0,0,4000,15,864,Manufacturer,30,Other,0
+1713,East,Bihar,Urban,Patna,Personal,Entertainment,TV,0,0,0,2,1,0,2856,11,625,Internet,8,Other,0
+1718,East,Jharkhand,Urban,Ranchi,Personal,Household,AC,0,1,2,0,0,0,4905,11,613,Manufacturer,30,Claim,0
+1732,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,1,1,0,6586,13,35,Dealer,30,Claim,0
+1740,East,West Bengal,Urban,Kolkata,Personal,Household,AC,0,1,0,0,0,0,4388,13,309,Manufacturer,30,Complaint,0
+1745,North,Himachal Pradesh,Urban,Shimla,Personal,Household,AC,0,2,1,0,0,0,5584,11,111,Dealer,4,Other,0
+1748,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,2961,12,547,Internet,30,Other,0
+1753,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,7370,13,698,Manufacturer,30,Other,0
+1754,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,1,0,8344,14,3,Internet,3,Complaint,0
+1755,South,Kerala,Urban,Kochi,Personal,Household,AC,0,1,1,0,0,0,2538,12,73,Dealer,30,Claim,0
+1765,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,10000,10,574,Manufacturer,30,Claim,0
+1766,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,3651,11,388,Internet,30,Claim,1
+1769,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,1,2,0,6405,11,790,Manufacturer,30,Complaint,0
+1770,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,0,1,1,5618,14,289,Dealer,30,Claim,1
+1773,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,2,1,501,10,409,Internet,30,Claim,0
+1775,North,Delhi,Urban,Delhi,Business,Household,AC,1,2,0,0,0,0,7235,13,125,Dealer,30,Complaint,0
+1779,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,609,Internet,5,Claim,0
+1780,East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,1,2,1,5283,11,883,Dealer,12,Claim,0
+1782,South West,Goa,Urban,Panaji,Personal,Household,AC,0,2,0,0,0,0,4832,14,481,Internet,30,Complaint,0
+1784,North East,Tripura,Urban,Agartala,Personal,Household,AC,0,1,1,0,0,0,2515,10,748,Manufacturer,30,Other,0
+1786,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,2,1,2538,14,353,Dealer,30,Complaint,0
+1787,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,1,0,0,0,0,2000,15,187,Manufacturer,10,Complaint,0
+1788,South,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,0,0,0,0,0,2000,15,52,Dealer,6,Complaint,0
+1789,North West,Rajasthan,Urban,Jaipur,Personal,Household,AC,2,0,0,0,0,0,5000,11,118,Internet,23,Complaint,0
+1790,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,9000,14,173,Manufacturer,7,Claim,0
+1791,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,0,7000,14,43,Dealer,17,Claim,0
+1792,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,0,5000,14,197,Internet,13,Complaint,0
+1793,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,1,0,0,0,0,0,2000,14,304,Internet,20,Claim,1
+1794,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,2,0,0,0,0,0,5000,14,167,Manufacturer,9,Complaint,0
+1795,West,Maharashtra,Urban,Mumbai,Business,Household,AC,2,0,0,0,0,0,5000,14,49,Internet,22,Complaint,1
+1796,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,1,7000,14,293,Manufacturer,13,Complaint,0
+1797,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,0,0,0,0,0,0,0,14,332,Manufacturer,20,Complaint,1
+1798,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,4000,14,331,Manufacturer,24,Complaint,0
+1799,South,Karnataka,Urban,Bangalore,Business,Household,AC,1,0,0,0,0,0,2000,15,329,Dealer,14,Complaint,0
+1800,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,0,1,0,2000,15,315,Internet,23,Complaint,0
+1801,South,Karnataka,Urban,Bangalore,Business,Household,AC,2,0,0,0,0,0,5000,15,112,Dealer,15,Complaint,0
+1802,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,2,0,0,5000,15,281,Manufacturer,4,Complaint,0
+1803,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,0,0,0,0,0,2000,15,57,Internet,15,Complaint,0
+1804,South,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,0,4000,15,61,Dealer,20,Complaint,0
+1805,South,Karnataka,Urban,Bangalore,Personal,Household,AC,2,2,0,0,0,0,10000,15,349,Internet,21,Complaint,0
+1806,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,244,Manufacturer,4,Complaint,0
+1807,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,0,15,281,Internet,19,Complaint,0
+1808,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,343,Internet,7,Complaint,0
+1809,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,80,Manufacturer,12,Complaint,0
+1810,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,323,Dealer,8,Complaint,0
+1811,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,167,Internet,15,Complaint,0
+1812,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,0,0,0,0,0,2000,15,147,Manufacturer,12,Complaint,0
+1813,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,345,Internet,1,Complaint,0
+1814,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,68,Dealer,10,Complaint,0
+1815,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,68,Manufacturer,9,Complaint,0
+1816,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,1,0,0,0,0,2000,15,218,Internet,16,Complaint,0
+1817,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,2,0,0,0,0,10000,15,35,Internet,11,Claim,0
+1818,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,0,0,0,0,0,5000,15,152,Dealer,18,Claim,0
+1819,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,1,0,0,0,6000,15,280,Dealer,21,Complaint,0
+1820,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,0,15,213,Manufacturer,2,Complaint,0
+1821,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,254,Dealer,9,Claim,0
+1822,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,39,Dealer,11,Claim,0
+1823,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,36,Internet,5,Complaint,0
+1824,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,233,Manufacturer,21,Claim,0
+1825,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,2,0,0,0,0,7000,12,247,Internet,18,Complaint,0
+1826,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,0,1,0,2000,12,30,Dealer,8,Claim,0
+1827,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,350,Internet,18,Complaint,0
+1828,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,205,Manufacturer,24,Complaint,0
+1829,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,311,Dealer,4,Claim,0
+1830,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,280,Internet,19,Claim,0
+1831,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,1,0,0,0,0,4000,12,233,Dealer,6,Complaint,0
+1832,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,1,4000,12,324,Manufacturer,19,Claim,0
+1833,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,22,Dealer,23,Claim,0
+1834,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,1,0,4000,12,282,Internet,15,Complaint,0
+1835,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,1,0,0,0,0,4000,12,347,Internet,6,Claim,0
+1836,South East,Orissa,Urban,Bhubaneswar,Business,Entertainment,TV,0,0,0,1,0,0,2000,12,274,Manufacturer,11,Claim,0
+1837,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,2,0,0,0,0,7000,12,193,Dealer,7,Claim,0
+1838,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,2,2,2,0,0,0,15000,12,197,Internet,4,Claim,0
+1839,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,32,Manufacturer,14,Claim,0
+1840,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,365,Internet,5,Complaint,0
+1841,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,61,Dealer,24,Claim,0
+1842,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,170,Manufacturer,19,Claim,0
+1843,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,2,2,0,0,0,15000,15,303,Internet,7,Complaint,0
+1844,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,330,Dealer,8,Claim,0
+1845,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,79,Dealer,7,Claim,0
+1846,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,1,4000,15,26,Manufacturer,23,Complaint,0
+1847,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,0,0,0,0,0,5000,15,45,Internet,24,Claim,0
+1848,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,287,Dealer,1,Claim,0
+1849,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,1,0,0,0,0,0,2000,15,224,Manufacturer,23,Complaint,0
+1850,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,275,Internet,21,Claim,0
+1851,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,2,0,0,0,0,0,5000,15,315,Dealer,3,Claim,0
+1852,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,301,Manufacturer,3,Complaint,0
+1853,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,0,0,0,0,0,2000,15,356,Internet,13,Claim,0
+1854,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,301,Dealer,18,Claim,0
+1855,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,2,0,0,0,0,7000,15,333,Internet,24,Complaint,0
+1856,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,103,Manufacturer,16,Claim,0
+1857,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,288,Dealer,18,Claim,0
+1858,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,125,Internet,1,Complaint,0
+1859,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,148,Manufacturer,24,Claim,1
+1860,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,291,Dealer,1,Claim,0
+1861,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,180,Internet,22,Complaint,0
+1862,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,1,1,0,4000,10,81,Internet,21,Claim,0
+1863,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,46,Manufacturer,8,Claim,0
+1864,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,147,Dealer,22,Complaint,0
+1865,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,159,Dealer,3,Claim,0
+1866,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,1,0,4000,10,287,Manufacturer,15,Claim,0
+1867,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,271,Dealer,2,Complaint,0
+1868,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,2,2,0,0,0,0,10000,10,206,Dealer,17,Claim,0
+1869,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,300,Manufacturer,14,Complaint,0
+1870,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,257,Internet,25,Claim,0
+1871,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,1,0,0,0,0,4000,10,131,Dealer,1,Claim,0
+1872,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,340,Manufacturer,10,Claim,0
+1873,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,345,Dealer,2,Complaint,0
+1874,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,276,Dealer,8,Claim,0
+1875,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,171,Manufacturer,4,Claim,0
+1876,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,299,Dealer,9,Complaint,0
+1877,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,1,0,0,0,0,4000,10,335,Dealer,14,Claim,0
+1878,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,21,Manufacturer,24,Claim,0
+1879,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,55,Dealer,21,Claim,0
+1880,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,212,Dealer,4,Complaint,0
+1881,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,190,Manufacturer,6,Claim,0
+1882,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,1,1,4000,10,275,Dealer,11,Claim,0
+1883,North East,West Bengal,Urban,Kolkata,Business,Household,AC,1,2,0,0,0,0,7000,10,151,Dealer,19,Complaint,0
+1884,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,0,1,1,4000,10,153,Internet,22,Claim,0
+1885,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,160,Manufacturer,19,Claim,0
+1886,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,15000,10,60,Manufacturer,0.5,Complaint,1
+1888,East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,0,1,1,0,0,0,50000,13,12,Manufacturer,1.5,Claim,1
+1889,North,Delhi,Urban,New Delhi,Personal,Household,AC,0,1,0,0,0,0,20000,15,15,Manufacturer,2.5,Claim,0
+1891,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,12000,14,3,Internet,1.4,Complaint,0
+1892,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,1
+1895,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Claim,0
+1896,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1.6,Complaint,0
+1897,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+1902,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,13,7,Manufacturer,1.6,Claim,1
+1903,North East,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1904,North West,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1905,South East,Kerala,Urban,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,12,9,Manufacturer,0.5,Complaint,0
+1906,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,50000,10,14,Manufacturer,1.5,Claim,0
+1908,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,0,15,10,Internet,1.4,Complaint,0
+1909,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,50000,12,6,Manufacturer,2.4,Claim,0
+1911,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Manufacturer,1.5,Complaint,0
+1912,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Manufacturer,1.4,Claim,0
+1914,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,2,50000,13,18,Manufacturer,0.5,Complaint,1
+1916,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,2,25000,15,10,Dealer,1.5,Claim,0
+1917,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,0,0,0,0,12000,14,12,Internet,2.5,Claim,0
+1919,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+1920,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Manufacturer,2.6,Claim,0
+1921,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,25000,13,5,Dealer,2.4,Claim,0
+1926,South West,Maharashtra,Urban,Pune,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,16,Manufacturer,2.5,Other,1
+1928,West,Bihar,Urban,Patna,Business,Household,AC,0,0,0,0,0,0,12000,12,19,Internet,1.4,Complaint,0
+1929,East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,15000,13,14,Manufacturer,1.6,Claim,1
+1930,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,1,1,1,10000,15,18,Dealer,2.6,Claim,0
+1933,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,12,Dealer,0.5,Complaint,0
+1935,South,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,6,Manufacturer,1.5,Claim,0
+1939,North East,Maharashtra,Urban,Pune,Personal,Entertainment,TV,0,0,0,0,0,0,25000,15,18,Dealer,1.6,Complaint,0
+1941,South East,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,12,4,Manufacturer,2.4,Other,0
+1942,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,13,21,Dealer,6.5,Other,0
+1943,South,Bihar,Urban,Purnea,Business,Household,AC,0,0,0,0,0,0,50000,10,16,Manufacturer,0.5,Complaint,0
+1944,West,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,20000,12,9,Manufacturer,1,Claim,0
+1945,East,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,0,0,0,0,0,25000,13,19,Dealer,1.5,Claim,0
+1947,North East,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,1,1,0,0,0,15000,15,18,Manufacturer,1.3,Complaint,0
+1948,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,10000,14,60,Dealer,1.4,Complaint,0
+1950,South West,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,12,Manufacturer,2.6,Claim,0
+1951,South,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,15,Dealer,2.4,Claim,0
+1954,North,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,0,0,0,0,0,0,10000,15,4,Dealer,1,Other,0
+1955,North East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,50000,15,5,Manufacturer,1.5,Other,0
+1956,North West,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,20000,14,18,Manufacturer,2.5,Other,0
+1957,South East,Gujarat,Urban,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,7,Dealer,1.3,Other,0
+1958,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,12000,13,4,Internet,1.4,Other,0
+1960,West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,12,16,Dealer,2.6,Other,0
+1966,North,Haryana,Urban,Chandigarh,Personal,Household,AC,0,1,2,0,0,0,18000,14,10,Dealer,1.4,Claim,0
+1967,South,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,0,12000,16,20,Manufacturer,2,Complaint,0
+1969,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,2,1,0,12000,14,3,Internet,1.4,Complaint,0
+1970,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,0
+1971,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,10000,13,5,Dealer,2.6,Claim,0
+1972,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,0
+1977,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Complaint,0
+1979,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,0
+1980,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1,Complaint,0
+1981,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+1984,North East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,15,15,Manufacturer,0.5,Claim,0
+1986,South East,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,1,1,1,25000,12,3,Dealer,1.5,Complaint,0
+1990,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,2,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+1992,North East,Delhi,Urban,New Delhi,Personal,Household,AC,2,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+1993,North West,Delhi,Urban,New Delhi,Personal,Household,AC,2,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+1994,South East,Kerala,Urban,Kochi,Business,Household,AC,2,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,0
+1995,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,2,0,10000,13,19,Dealer,1,Claim,0
+1996,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,1
+1998,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,1,1,1,25000,13,60,Dealer,1.3,Complaint,0
+1999,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,12000,15,10,Internet,1.4,Complaint,0
+2001,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Claim,0
+2002,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,1,0,0,0,50000,12,6,Dealer,2.4,Claim,0
+2005,West,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,0,0,12000,12,5,Internet,1,Complaint,0
+2006,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Dealer,1.5,Complaint,0
+2007,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,10000,15,7,Dealer,2.5,Claim,0
+2008,North East,Bihar,Urban,Patna,Personal,Household,AC,0,0,0,0,0,0,50000,15,4,Manufacturer,1.3,Claim,0
+2009,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Dealer,1.4,Claim,0
+2011,South West,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,12000,13,9,Internet,2.6,Complaint,0
+2014,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,1,2,50000,13,18,Manufacturer,0.5,Claim,0
+2016,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,2,25000,15,10,Dealer,1.5,Complaint,0
+2017,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,1,0,0,0,12000,14,12,Internet,2.5,Claim,0
+2019,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+2020,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,50000,10,3,Manufacturer,1.6,Claim,0
+2021,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Dealer,2.6,Claim,0
+2022,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,2,0,15000,10,60,Manufacturer,0.5,Complaint,0
+2023,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,0,1,0,0,0,50000,10,18,Manufacturer,2.4,Claim,1
+2027,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,1,20000,13,14,Manufacturer,1.4,Claim,1
+2032,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,1,1,0,0,0,13000,13,7,Manufacturer,1.6,Claim,0
+2034,North East,Delhi,Urban,New Delhi,Personal,Household,AC,1,1,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+2035,North West,Delhi,Urban,New Delhi,Personal,Household,AC,1,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+2036,South East,Kerala,Urban,Kochi,Business,Household,AC,1,2,0,0,0,0,15000,12,9,Dealer,0.5,Complaint,1
+2037,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,40000,10,14,Manufacturer,1.5,Claim,0
+2038,East,Delhi,Urban,New Delhi,Personal,Entertainment,TV,0,0,0,0,1,1,25000,13,60,Dealer,1.3,Claim,0
+2040,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,1,1,0,0,0,10000,14,15,Dealer,2.6,Other,0
+2042,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,1,373,14,72,Dealer,30,Claim,0
+2043,South,Kerala,Urban,Kochi,Business,Household,AC,0,2,1,0,0,0,2742,10,214,Manufacturer,30,Complaint,0
+2044,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,1,2,1,5901,11,370,Dealer,30,Claim,0
+2046,South East,Andhra Pradesh,Urban,Vizag,Personal,Entertainment,TV,0,0,0,0,1,0,8386,12,197,Dealer,30,Claim,0
+2050,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,2,0,7028,14,679,Manufacturer,30,Claim,1
+2051,North,Jammu and Kashmir,Urban,Srinagar,Business,Entertainment,TV,0,0,0,1,1,1,5284,15,210,Dealer,30,Claim,0
+2053,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,0,1,1,4000,15,363,Dealer,30,Other,0
+2054,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,1,1,0,4805,12,948,Dealer,3,Claim,0
+2055,North East,Assam,Urban,Guwhati,Personal,Entertainment,TV,0,0,0,1,2,0,3501,14,43,Dealer,30,Other,1
+2056,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,7755,13,550,Dealer,30,Claim,0
+2057,North West,Rajasthan,Urban,Jaipur,Business,Household,AC,1,1,2,0,0,0,6956,11,117,Manufacturer,6,Other,0
+2058,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,1,2,0,0,0,6542,13,271,Dealer,4,Claim,0
+2059,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,1,0,170,11,371,Dealer,30,Other,0
+2060,West,Gujarat,Urban,Ahmedabad,Personal,Household,AC,1,1,2,0,0,0,6993,15,505,Manufacturer,7,Complaint,1
+2064,South,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,1,1,1,4862,10,854,Dealer,30,Claim,0
+2065,North,Uttar Pradesh,Urban,Meerut,Business,Entertainment,TV,0,0,0,0,2,0,1656,14,827,Internet,30,Claim,0
+2066,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,1,1,0,0,0,0,4000,15,864,Manufacturer,30,Other,0
+2067,East,Bihar,Urban,Patna,Personal,Entertainment,TV,0,0,0,2,1,0,2856,11,625,Internet,8,Other,0
+2072,East,Jharkhand,Urban,Ranchi,Personal,Household,AC,0,1,2,0,0,0,4905,11,613,Manufacturer,30,Claim,0
+2086,South West,Goa,Urban,Panaji,Business,Entertainment,TV,0,0,0,1,1,0,6586,13,35,Dealer,30,Claim,0
+2094,East,West Bengal,Urban,Kolkata,Personal,Household,AC,0,1,0,0,0,0,4388,13,309,Manufacturer,30,Complaint,0
+2099,North,Himachal Pradesh,Urban,Shimla,Personal,Household,AC,0,2,1,0,0,0,5584,11,111,Dealer,4,Other,0
+2102,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,1,1,2961,12,547,Internet,30,Other,0
+2107,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,1,1,1,7370,13,698,Manufacturer,30,Other,0
+2108,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,1,0,8344,14,3,Internet,3,Complaint,0
+2109,South,Kerala,Urban,Kochi,Personal,Household,AC,0,1,1,0,0,0,2538,12,73,Dealer,30,Claim,0
+2119,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,10000,10,574,Manufacturer,30,Claim,0
+2120,South East,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,1,0,0,0,0,3651,11,388,Internet,30,Claim,1
+2123,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,1,2,0,6405,11,790,Manufacturer,30,Complaint,0
+2124,South East,Andhra Pradesh,Urban,Vizag,Business,Entertainment,TV,0,0,0,0,1,1,5618,14,289,Dealer,30,Claim,1
+2127,East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,2,1,501,10,409,Internet,30,Claim,0
+2129,North,Delhi,Urban,Delhi,Business,Household,AC,1,2,0,0,0,0,7235,13,125,Dealer,30,Complaint,0
+2133,West,Gujarat,Urban,Ahmedabad,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,609,Internet,5,Claim,0
+2134,East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,1,2,1,5283,11,883,Dealer,12,Claim,0
+2136,South West,Goa,Urban,Panaji,Personal,Household,AC,0,2,0,0,0,0,4832,14,481,Internet,30,Complaint,0
+2138,North East,Tripura,Urban,Agartala,Personal,Household,AC,0,1,1,0,0,0,2515,10,748,Manufacturer,30,Other,0
+2140,North,Delhi,Urban,Delhi,Personal,Entertainment,TV,0,0,0,0,2,1,2538,14,353,Dealer,30,Complaint,0
+2141,South,Karnataka,Urban,Bangalore,Business,Household,AC,0,1,0,0,0,0,2000,15,187,Manufacturer,10,Complaint,0
+2142,South,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,0,0,0,0,0,2000,15,52,Dealer,6,Complaint,0
+2143,North West,Rajasthan,Urban,Jaipur,Personal,Household,AC,2,0,0,0,0,0,5000,11,118,Internet,23,Complaint,0
+2144,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,2,1,1,9000,14,173,Manufacturer,7,Claim,0
+2145,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,2,0,7000,14,43,Dealer,17,Claim,0
+2146,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,0,5000,14,197,Internet,13,Complaint,0
+2147,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,1,0,0,0,0,0,2000,14,304,Internet,20,Claim,1
+2148,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,2,0,0,0,0,0,5000,14,167,Manufacturer,9,Complaint,0
+2149,West,Maharashtra,Urban,Mumbai,Business,Household,AC,2,0,0,0,0,0,5000,14,49,Internet,22,Complaint,1
+2150,West,Maharashtra,Urban,Mumbai,Business,Entertainment,TV,0,0,0,2,0,1,7000,14,293,Manufacturer,13,Complaint,0
+2151,West,Maharashtra,Urban,Mumbai,Personal,Household,AC,0,0,0,0,0,0,0,14,332,Manufacturer,20,Complaint,1
+2152,West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,1,1,0,4000,14,331,Manufacturer,24,Complaint,0
+2153,South,Karnataka,Urban,Bangalore,Business,Household,AC,1,0,0,0,0,0,2000,15,329,Dealer,14,Complaint,0
+2154,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,0,1,0,2000,15,315,Internet,23,Complaint,0
+2155,South,Karnataka,Urban,Bangalore,Business,Household,AC,2,0,0,0,0,0,5000,15,112,Dealer,15,Complaint,0
+2156,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,2,0,0,5000,15,281,Manufacturer,4,Complaint,0
+2157,South,Karnataka,Urban,Bangalore,Personal,Household,AC,1,0,0,0,0,0,2000,15,57,Internet,15,Complaint,0
+2158,South,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,0,4000,15,61,Dealer,20,Complaint,0
+2159,South,Karnataka,Urban,Bangalore,Personal,Household,AC,2,2,0,0,0,0,10000,15,349,Internet,21,Complaint,0
+2160,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,244,Manufacturer,4,Complaint,0
+2161,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,0,0,0,0,0,0,0,15,281,Internet,19,Complaint,0
+2162,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,343,Internet,7,Complaint,0
+2163,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,80,Manufacturer,12,Complaint,0
+2164,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,323,Dealer,8,Complaint,0
+2165,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,167,Internet,15,Complaint,0
+2166,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,0,0,0,0,0,2000,15,147,Manufacturer,12,Complaint,0
+2167,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,345,Internet,1,Complaint,0
+2168,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,68,Dealer,10,Complaint,0
+2169,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,2,0,0,0,0,7000,15,68,Manufacturer,9,Complaint,0
+2170,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,1,0,0,0,0,2000,15,218,Internet,16,Complaint,0
+2171,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,2,0,0,0,0,10000,15,35,Internet,11,Claim,0
+2172,South,Tamil Nadu,Urban,Chennai,Business,Household,AC,2,0,0,0,0,0,5000,15,152,Dealer,18,Claim,0
+2173,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,1,0,0,0,6000,15,280,Dealer,21,Complaint,0
+2174,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,0,0,15,213,Manufacturer,2,Complaint,0
+2175,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,254,Dealer,9,Claim,0
+2176,South,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,39,Dealer,11,Claim,0
+2177,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,1,1,0,0,0,0,4000,15,36,Internet,5,Complaint,0
+2178,South,Tamil Nadu,Urban,Chennai,Personal,Household,AC,2,2,1,0,0,0,12000,15,233,Manufacturer,21,Claim,0
+2179,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,2,0,0,0,0,7000,12,247,Internet,18,Complaint,0
+2180,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,0,1,0,2000,12,30,Dealer,8,Claim,0
+2181,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,350,Internet,18,Complaint,0
+2182,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,205,Manufacturer,24,Complaint,0
+2183,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,311,Dealer,4,Claim,0
+2184,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,280,Internet,19,Claim,0
+2185,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,1,0,0,0,0,4000,12,233,Dealer,6,Complaint,0
+2186,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,1,4000,12,324,Manufacturer,19,Claim,0
+2187,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,2,2,2,0,0,0,15000,12,22,Dealer,23,Claim,0
+2188,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,1,0,4000,12,282,Internet,15,Complaint,0
+2189,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,1,1,0,0,0,0,4000,12,347,Internet,6,Claim,0
+2190,South East,Orissa,Urban,Bhubaneswar,Business,Entertainment,TV,0,0,0,1,0,0,2000,12,274,Manufacturer,11,Claim,0
+2191,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,1,2,0,0,0,0,7000,12,193,Dealer,7,Claim,0
+2192,South East,Orissa,Urban,Bhubaneswar,Business,Household,AC,2,2,2,0,0,0,15000,12,197,Internet,4,Claim,0
+2193,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,2,1,0,7000,12,32,Manufacturer,14,Claim,0
+2194,South East,Orissa,Urban,Bhubaneswar,Personal,Entertainment,TV,0,0,0,1,0,0,2000,12,365,Internet,5,Complaint,0
+2195,South East,Orissa,Urban,Bhubaneswar,Personal,Household,AC,0,1,0,0,0,0,2000,12,61,Dealer,24,Claim,0
+2196,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,170,Manufacturer,19,Claim,0
+2197,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,2,2,0,0,0,15000,15,303,Internet,7,Complaint,0
+2198,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,330,Dealer,8,Claim,0
+2199,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,1,0,0,0,0,4000,15,79,Dealer,7,Claim,0
+2200,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,1,4000,15,26,Manufacturer,23,Complaint,0
+2201,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,2,0,0,0,0,0,5000,15,45,Internet,24,Claim,0
+2202,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,1,0,7000,15,287,Dealer,1,Claim,0
+2203,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,1,0,0,0,0,0,2000,15,224,Manufacturer,23,Complaint,0
+2204,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,2,0,0,5000,15,275,Internet,21,Claim,0
+2205,South,Andhra Pradesh,Urban,Vijayawada,Business,Household,AC,2,0,0,0,0,0,5000,15,315,Dealer,3,Claim,0
+2206,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,1,1,6000,15,301,Manufacturer,3,Complaint,0
+2207,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,0,0,0,0,0,2000,15,356,Internet,13,Claim,0
+2208,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,1,0,0,2000,15,301,Dealer,18,Claim,0
+2209,South,Andhra Pradesh,Urban,Vijayawada,Personal,Household,AC,1,2,0,0,0,0,7000,15,333,Internet,24,Complaint,0
+2210,South,Andhra Pradesh,Urban,Vijayawada,Personal,Entertainment,TV,0,0,0,0,1,1,4000,15,103,Manufacturer,16,Claim,0
+2211,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,288,Dealer,18,Claim,0
+2212,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,125,Internet,1,Complaint,0
+2213,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,148,Manufacturer,24,Claim,1
+2214,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,291,Dealer,1,Claim,0
+2215,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,180,Internet,22,Complaint,0
+2216,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,1,1,0,4000,10,81,Internet,21,Claim,0
+2217,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,46,Manufacturer,8,Claim,0
+2218,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,147,Dealer,22,Complaint,0
+2219,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,0,0,0,0,0,2000,10,159,Dealer,3,Claim,0
+2220,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,1,1,0,4000,10,287,Manufacturer,15,Claim,0
+2221,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,271,Dealer,2,Complaint,0
+2222,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,2,2,0,0,0,0,10000,10,206,Dealer,17,Claim,0
+2223,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,1,0,0,0,0,0,2000,10,300,Manufacturer,14,Complaint,0
+2224,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,257,Internet,25,Claim,0
+2225,North East,Uttar Pradesh,Urban,Lucknow,Business,Household,AC,1,1,0,0,0,0,4000,10,131,Dealer,1,Claim,0
+2226,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,0,0,0,0,10,340,Manufacturer,10,Claim,0
+2227,North East,Uttar Pradesh,Urban,Lucknow,Personal,Entertainment,TV,0,0,0,2,0,0,5000,10,345,Dealer,2,Complaint,0
+2228,North East,Uttar Pradesh,Urban,Lucknow,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,276,Dealer,8,Claim,0
+2229,North East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,2,0,0,0,0,0,5000,10,171,Manufacturer,4,Claim,0
+2230,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,1,0,0,2000,10,299,Dealer,9,Complaint,0
+2231,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,1,0,0,0,0,4000,10,335,Dealer,14,Claim,0
+2232,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,21,Manufacturer,24,Claim,0
+2233,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,55,Dealer,21,Claim,0
+2234,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,1,0,0,0,0,0,2000,10,212,Dealer,4,Complaint,0
+2235,North East,West Bengal,Urban,Kolkata,Personal,Household,AC,2,0,0,0,0,0,5000,10,190,Manufacturer,6,Claim,0
+2236,North East,West Bengal,Urban,Kolkata,Personal,Entertainment,TV,0,0,0,0,1,1,4000,10,275,Dealer,11,Claim,0
+2237,North East,West Bengal,Urban,Kolkata,Business,Household,AC,1,2,0,0,0,0,7000,10,151,Dealer,19,Complaint,0
+2238,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,0,1,1,4000,10,153,Internet,22,Claim,0
+2239,North East,West Bengal,Urban,Kolkata,Business,Entertainment,TV,0,0,0,2,1,1,9000,10,160,Manufacturer,19,Claim,0
+2240,South,Karnataka,Urban,Bangalore,Business,Entertainment,TV,0,0,0,1,1,1,15000,10,60,Manufacturer,0.5,Complaint,1
+2242,East,Uttar Pradesh,Urban,Lucknow,Personal,Household,AC,0,1,1,0,0,0,50000,13,12,Manufacturer,1.5,Claim,1
+2243,North,Delhi,Urban,New Delhi,Personal,Household,AC,0,1,0,0,0,0,20000,15,15,Manufacturer,2.5,Claim,0
+2245,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,12000,14,3,Internet,1.4,Complaint,0
+2246,South East,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,1,1,1,15000,12,4,Manufacturer,1.6,Complaint,1
+2249,North West,Karnataka,Urban,Bangalore,Personal,Entertainment,TV,0,0,0,1,1,1,10000,14,9,Dealer,2.5,Claim,0
+2250,South,Delhi,Urban,New Delhi,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,18,Dealer,1.6,Complaint,0
+2251,West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,12000,12,60,Internet,2.6,Complaint,0
+2256,East,Karnataka,Urban,Bangalore,Personal,Household,AC,0,0,0,0,0,0,50000,13,7,Manufacturer,1.6,Claim,1
+2257,North East,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,25000,15,21,Dealer,2.4,Complaint,0
+2258,North West,Delhi,Urban,New Delhi,Personal,Household,AC,0,0,0,0,0,0,12000,14,16,Internet,6.5,Complaint,0
+2259,South East,Kerala,Urban,Kochi,Business,Household,AC,0,0,0,0,0,0,15000,12,9,Manufacturer,0.5,Complaint,0
+2260,South,Bihar,Urban,Purnea,Business,Entertainment,TV,0,0,0,0,1,0,50000,10,14,Manufacturer,1.5,Claim,0
+2262,North,Bihar,Urban,Purnea,Personal,Household,AC,0,1,1,0,0,0,0,15,10,Internet,1.4,Complaint,0
+2263,South East,Maharashtra,Urban,Mumbai,Business,Household,AC,0,0,0,0,0,0,50000,12,6,Manufacturer,2.4,Claim,0
+2265,East,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,0,0,15000,13,18,Manufacturer,1.5,Complaint,0
+2266,North West,Maharashtra,Urban,Mumbai,Personal,Entertainment,TV,0,0,0,0,2,0,20000,14,21,Manufacturer,1.4,Claim,0
+2268,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,2,50000,13,18,Manufacturer,0.5,Complaint,1
+2270,North East,Tamil Nadu,Urban,Chennai,Personal,Entertainment,TV,0,0,0,0,0,2,25000,15,10,Dealer,1.5,Claim,0
+2271,North West,Gujarat,Urban,Vadodara,Personal,Household,AC,0,0,0,0,0,0,12000,14,12,Internet,2.5,Claim,0
+2273,South West,Andhra Pradesh,Urban,Hyderabad,Business,Household,AC,0,0,0,0,0,0,10000,13,6,Dealer,1.4,Complaint,0
+2274,West,Gujarat,Urban,Vadodara,Business,Household,AC,0,0,0,0,0,0,20000,12,4,Manufacturer,2.6,Claim,0
+2275,East,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,0,0,0,25000,13,5,Dealer,2.4,Claim,0
+2280,South West,Maharashtra,Urban,Pune,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,16,Manufacturer,2.5,Other,1
+2282,West,Bihar,Urban,Patna,Business,Household,AC,0,0,0,0,0,0,12000,12,19,Internet,1.4,Complaint,0
+2283,East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,15000,13,14,Manufacturer,1.6,Claim,1
+2284,North,Andhra Pradesh,Urban,Hyderabad,Personal,Entertainment,TV,0,0,0,1,1,1,10000,15,18,Dealer,2.6,Claim,0
+2287,South East,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,12,Dealer,0.5,Complaint,0
+2289,South,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,10,6,Manufacturer,1.5,Claim,0
+2293,North East,Maharashtra,Urban,Pune,Personal,Entertainment,TV,0,0,0,0,0,0,25000,15,18,Dealer,1.6,Complaint,0
+2295,South East,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,15000,12,4,Manufacturer,2.4,Other,0
+2296,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,13,21,Dealer,6.5,Other,0
+2297,South,Bihar,Urban,Purnea,Business,Household,AC,0,0,0,0,0,0,50000,10,16,Manufacturer,0.5,Complaint,0
+2298,West,Kerala,Urban,Kochi,Business,Entertainment,TV,0,0,0,0,0,0,20000,12,9,Manufacturer,1,Claim,0
+2299,East,Tamil Nadu,Urban,Chennai,Personal,Household,AC,0,0,0,0,0,0,25000,13,19,Dealer,1.5,Claim,0
+2301,North East,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,1,1,1,0,0,0,15000,15,18,Manufacturer,1.3,Complaint,0
+2302,North West,Kerala,Urban,Kochi,Personal,Entertainment,TV,0,0,0,0,0,0,10000,14,60,Dealer,1.4,Complaint,0
+2304,South West,Tamil Nadu,Urban,Chennai,Business,Entertainment,TV,0,0,0,0,0,0,20000,13,12,Manufacturer,2.6,Claim,0
+2305,South,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,10,15,Dealer,2.4,Claim,0
+2308,North,Andhra Pradesh,Urban,Hyderabad,Personal,Household,AC,0,0,0,0,0,0,10000,15,4,Dealer,1,Other,0
+2309,North East,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,50000,15,5,Manufacturer,1.5,Other,0
+2310,North West,Kerala,Urban,Kochi,Personal,Household,AC,0,0,0,0,0,0,20000,14,18,Manufacturer,2.5,Other,0
+2311,South East,Gujarat,Urban,Ahmedabad,Business,Entertainment,TV,0,0,0,0,0,0,25000,12,7,Dealer,1.3,Other,0
+2312,South West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,12000,13,4,Internet,1.4,Other,0
+2314,West,Andhra Pradesh,Urban,Hyderabad,Business,Entertainment,TV,0,0,0,0,0,0,10000,12,16,Dealer,2.6,Other,0
